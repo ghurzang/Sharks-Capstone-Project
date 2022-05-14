@@ -1,0 +1,146 @@
+2022-05-12 11:05:52,738 [main] INFO .\src\test\resources\input\log4j.properties - scenarioDesktops tab started
+2022-05-12 11:05:57,266 [main] INFO .\src\test\resources\input\log4j.properties - user is on Home page.
+2022-05-12 11:05:57,392 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Destops tab
+2022-05-12 11:05:58,292 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show All Desktops inner drop down.
+2022-05-12 11:05:58,353 [main] INFO .\src\test\resources\input\log4j.properties - user see all items are present in desktop page.
+2022-05-12 11:05:59,155 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioDesktops tab PASSED
+2022-05-12 11:07:13,687 [main] INFO .\src\test\resources\input\log4j.properties - scenarioDesktops tab started
+2022-05-12 11:07:18,096 [main] INFO .\src\test\resources\input\log4j.properties - user is on Home page.
+2022-05-12 11:07:18,262 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Destops tab
+2022-05-12 11:07:18,784 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show All Desktops inner drop down.
+2022-05-12 11:07:18,859 [main] INFO .\src\test\resources\input\log4j.properties - user see all items are present in desktop page.
+2022-05-12 11:07:19,674 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioDesktops tab PASSED
+2022-05-12 11:43:13,610 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser verify all items are present in Desktops tab started
+2022-05-12 11:43:18,007 [main] INFO .\src\test\resources\input\log4j.properties - user is on Home page.
+2022-05-12 11:43:18,169 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Destops tab
+2022-05-12 11:43:18,750 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show All Desktops inner drop down.
+2022-05-12 11:43:18,817 [main] INFO .\src\test\resources\input\log4j.properties - user see all items are present in desktop page.
+2022-05-12 11:43:19,676 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify all items are present in Desktops tab PASSED
+2022-05-12 11:43:19,738 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser add HP LP 3065  from Desktops tab to the cart started
+2022-05-12 11:43:23,450 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser add HP LP 3065  from Desktops tab to the cart UNDEFINED
+2022-05-12 11:47:54,287 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser verify all items are present in Desktops tab started
+2022-05-12 11:47:58,567 [main] INFO .\src\test\resources\input\log4j.properties - user is on Home page.
+2022-05-12 11:47:58,683 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Destops tab
+2022-05-12 11:47:59,248 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show All Desktops inner drop down.
+2022-05-12 11:47:59,335 [main] INFO .\src\test\resources\input\log4j.properties - user see all items are present in desktop page.
+2022-05-12 11:48:00,144 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify all items are present in Desktops tab PASSED
+2022-05-12 11:48:00,216 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser add HP LP 3065  from Desktops tab to the cart started
+2022-05-12 11:48:04,396 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser add HP LP 3065  from Desktops tab to the cart UNDEFINED
+2022-05-12 12:09:25,092 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser verify all items are present in Desktops tab started
+2022-05-12 12:09:29,328 [main] INFO .\src\test\resources\input\log4j.properties - user is on Home page.
+2022-05-12 12:09:29,451 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Destops tab
+2022-05-12 12:09:30,010 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show All Desktops inner drop down.
+2022-05-12 12:09:30,091 [main] INFO .\src\test\resources\input\log4j.properties - user see all items are present in desktop page.
+2022-05-12 12:09:30,896 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify all items are present in Desktops tab PASSED
+2022-05-12 12:09:30,948 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser add HP LP 3065  from Desktops tab to the cart started
+2022-05-12 12:09:35,064 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser add HP LP 3065  from Desktops tab to the cart UNDEFINED
+2022-05-12 12:11:51,387 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser verify all items are present in Desktops tab started
+2022-05-12 12:11:56,906 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify all items are present in Desktops tab UNDEFINED
+2022-05-12 12:11:56,973 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser add HP LP 3065  from Desktops tab to the cart started
+2022-05-12 12:12:01,916 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser add HP LP 3065  from Desktops tab to the cart UNDEFINED
+2022-05-12 12:13:17,158 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser verify all items are present in Desktops tab started
+2022-05-12 12:13:22,097 [main] INFO .\src\test\resources\input\log4j.properties - user is on Home page.
+2022-05-12 12:13:22,215 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Destops tab
+2022-05-12 12:13:22,774 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show All Desktops inner drop down.
+2022-05-12 12:13:22,868 [main] INFO .\src\test\resources\input\log4j.properties - user see all items are present in desktop page.
+2022-05-12 12:13:23,699 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify all items are present in Desktops tab PASSED
+2022-05-12 12:13:23,768 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser add HP LP 3065  from Desktops tab to the cart started
+2022-05-12 12:13:27,630 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser add HP LP 3065  from Desktops tab to the cart UNDEFINED
+2022-05-12 12:21:16,887 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser verify all items are present in Desktops tab started
+2022-05-12 12:21:21,452 [main] INFO .\src\test\resources\input\log4j.properties - user is on Home page.
+2022-05-12 12:21:21,558 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Destops tab
+2022-05-12 12:21:22,408 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show All Desktops inner drop down.
+2022-05-12 12:21:22,479 [main] INFO .\src\test\resources\input\log4j.properties - user see all items are present in desktop page.
+2022-05-12 12:21:23,288 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify all items are present in Desktops tab PASSED
+2022-05-12 12:21:23,350 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser add HP LP 3065  from Desktops tab to the cart started
+2022-05-12 12:21:27,173 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser add HP LP 3065  from Desktops tab to the cart UNDEFINED
+2022-05-12 12:22:15,104 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser verify all items are present in Desktops tab started
+2022-05-12 12:22:19,556 [main] INFO .\src\test\resources\input\log4j.properties - user is on Home page.
+2022-05-12 12:22:19,700 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Destops tab
+2022-05-12 12:22:20,276 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show All Desktops inner drop down.
+2022-05-12 12:22:20,376 [main] INFO .\src\test\resources\input\log4j.properties - user see all items are present in desktop page.
+2022-05-12 12:22:21,191 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify all items are present in Desktops tab PASSED
+2022-05-12 12:22:21,253 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser add HP LP 3065  from Desktops tab to the cart started
+2022-05-12 12:22:24,922 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser add HP LP 3065  from Desktops tab to the cart UNDEFINED
+2022-05-12 12:39:21,191 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser verify all items are present in Desktops tab started
+2022-05-12 12:39:26,002 [main] INFO .\src\test\resources\input\log4j.properties - user is on Home page.
+2022-05-12 12:39:26,109 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Destops tab
+2022-05-12 12:39:26,724 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show All Desktops inner drop down.
+2022-05-12 12:39:26,804 [main] INFO .\src\test\resources\input\log4j.properties - user see all items are present in desktop page.
+2022-05-12 12:39:27,644 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify all items are present in Desktops tab PASSED
+2022-05-12 12:39:27,707 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser add HP LP 3065  from Desktops tab to the cart started
+2022-05-12 12:39:32,505 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser add HP LP 3065  from Desktops tab to the cart UNDEFINED
+2022-05-12 12:46:19,757 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser verify all items are present in Desktops tab started
+2022-05-12 12:46:26,485 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify all items are present in Desktops tab UNDEFINED
+2022-05-12 12:46:26,556 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser add HP LP 3065  from Desktops tab to the cart started
+2022-05-12 12:46:30,384 [main] INFO .\src\test\resources\input\log4j.properties - user is on Home page.
+2022-05-12 12:46:30,509 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Destops tab
+2022-05-12 12:46:31,098 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show All Desktops inner drop down.
+2022-05-12 12:46:31,198 [main] INFO .\src\test\resources\input\log4j.properties - user clicked add to cart option on item
+2022-05-12 12:46:32,013 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser add HP LP 3065  from Desktops tab to the cart PASSED
+2022-05-12 12:48:09,436 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser verify all items are present in Desktops tab started
+2022-05-12 12:48:14,299 [main] INFO .\src\test\resources\input\log4j.properties - user is on Home page.
+2022-05-12 12:48:14,439 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Destops tab
+2022-05-12 12:48:14,987 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show All Desktops inner drop down.
+2022-05-12 12:48:15,084 [main] INFO .\src\test\resources\input\log4j.properties - user see all items are present in desktop page.
+2022-05-12 12:48:15,890 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify all items are present in Desktops tab PASSED
+2022-05-12 12:48:15,963 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser add HP LP 3065  from Desktops tab to the cart started
+2022-05-12 12:48:20,794 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser add HP LP 3065  from Desktops tab to the cart UNDEFINED
+2022-05-12 12:50:03,876 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser verify all items are present in Desktops tab started
+2022-05-12 12:50:08,138 [main] INFO .\src\test\resources\input\log4j.properties - user is on Home page.
+2022-05-12 12:50:08,246 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Destops tab
+2022-05-12 12:50:08,835 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show All Desktops inner drop down.
+2022-05-12 12:50:08,909 [main] INFO .\src\test\resources\input\log4j.properties - user see all items are present in desktop page.
+2022-05-12 12:50:09,742 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify all items are present in Desktops tab PASSED
+2022-05-12 12:50:09,786 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser add HP LP 3065  from Desktops tab to the cart started
+2022-05-12 12:50:12,889 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Destops tab
+2022-05-12 12:50:13,418 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show All Desktops inner drop down.
+2022-05-12 12:50:13,563 [main] INFO .\src\test\resources\input\log4j.properties - user clicked add to cart option on item
+2022-05-12 12:50:14,395 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser add HP LP 3065  from Desktops tab to the cart PASSED
+2022-05-12 17:22:00,194 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser verify all items are present in Desktops tab started
+2022-05-12 17:22:05,322 [main] INFO .\src\test\resources\input\log4j.properties - user is on Home page.
+2022-05-12 17:22:09,448 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Destops tab
+2022-05-12 17:22:10,113 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show All Desktops inner drop down.
+2022-05-12 17:22:10,257 [main] INFO .\src\test\resources\input\log4j.properties - user see all items are present in desktop page.
+2022-05-12 17:22:11,663 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify all items are present in Desktops tab PASSED
+2022-05-12 17:22:11,703 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser add HP LP 3065  from Desktops tab to the cart started
+2022-05-12 17:22:15,903 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Destops tab
+2022-05-12 17:22:16,437 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show All Desktops inner drop down.
+2022-05-12 17:22:16,530 [main] INFO .\src\test\resources\input\log4j.properties - user clicked add to cart option on item
+2022-05-12 17:22:47,350 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser add HP LP 3065  from Desktops tab to the cart FAILED
+2022-05-12 18:22:43,286 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser verify all items are present in Desktops tab started
+2022-05-12 18:22:47,996 [main] INFO .\src\test\resources\input\log4j.properties - user is on Home page.
+2022-05-12 18:22:52,116 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Destops tab
+2022-05-12 18:22:52,686 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show All Desktops inner drop down.
+2022-05-12 18:22:52,776 [main] INFO .\src\test\resources\input\log4j.properties - user see all items are present in desktop page.
+2022-05-12 18:22:54,103 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify all items are present in Desktops tab PASSED
+2022-05-12 18:22:54,144 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser add HP LP 3065  from Desktops tab to the cart started
+2022-05-12 18:22:57,347 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Destops tab
+2022-05-12 18:22:57,868 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show All Desktops inner drop down.
+2022-05-12 18:22:57,961 [main] INFO .\src\test\resources\input\log4j.properties - user clicked add to cart option on item
+2022-05-12 18:23:28,792 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser add HP LP 3065  from Desktops tab to the cart FAILED
+2022-05-12 18:28:53,235 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser verify all items are present in Desktops tab started
+2022-05-12 18:28:58,073 [main] INFO .\src\test\resources\input\log4j.properties - user is on Home page.
+2022-05-12 18:29:02,176 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Destops tab
+2022-05-12 18:29:02,818 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show All Desktops inner drop down.
+2022-05-12 18:29:02,927 [main] INFO .\src\test\resources\input\log4j.properties - user see all items are present in desktop page.
+2022-05-12 18:29:04,300 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify all items are present in Desktops tab PASSED
+2022-05-12 18:29:04,340 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser add HP LP 3065  from Desktops tab to the cart started
+2022-05-12 18:29:07,547 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Destops tab
+2022-05-12 18:29:08,077 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show All Desktops inner drop down.
+2022-05-12 18:29:08,171 [main] INFO .\src\test\resources\input\log4j.properties - user clicked add to cart option on item
+2022-05-12 18:29:10,365 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser add HP LP 3065  from Desktops tab to the cart FAILED
+2022-05-12 18:36:04,781 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser verify all items are present in Desktops tab started
+2022-05-12 18:36:08,944 [main] INFO .\src\test\resources\input\log4j.properties - user is on Home page.
+2022-05-12 18:36:13,051 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Destops tab
+2022-05-12 18:36:13,621 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show All Desktops inner drop down.
+2022-05-12 18:36:13,694 [main] INFO .\src\test\resources\input\log4j.properties - user see all items are present in desktop page.
+2022-05-12 18:36:15,167 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify all items are present in Desktops tab PASSED
+2022-05-12 18:36:15,213 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser add HP LP 3065  from Desktops tab to the cart started
+2022-05-12 18:36:18,480 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Destops tab
+2022-05-12 18:36:19,067 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show All Desktops inner drop down.
+2022-05-12 18:36:19,203 [main] INFO .\src\test\resources\input\log4j.properties - user clicked add to cart option on item
+2022-05-12 18:36:20,632 [main] INFO .\src\test\resources\input\log4j.properties - user selected to add quantity by 1
+2022-05-12 18:36:20,994 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on add to Cart button
+2022-05-12 18:36:21,065 [main] INFO .\src\test\resources\input\log4j.properties - user is able to see the success message.
+2022-05-12 18:36:21,941 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser add HP LP 3065  from Desktops tab to the cart PASSED
