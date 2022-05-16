@@ -144,3 +144,17 @@
 2022-05-12 18:36:20,994 - .\src\test\resources\input\log4j.properties -INFO - user clicked on add to Cart button
 2022-05-12 18:36:21,065 - .\src\test\resources\input\log4j.properties -INFO - user is able to see the success message.
 2022-05-12 18:36:21,941 - .\src\test\resources\input\log4j.properties -INFO - ScenarioUser add HP LP 3065  from Desktops tab to the cart PASSED
+2022-05-16 10:22:07,689 - .\src\test\resources\input\log4j.properties -INFO - scenarioUser verify all items are present in Desktops tab started
+2022-05-16 10:22:13,791 - .\src\test\resources\input\log4j.properties -INFO - user is on Home page.
+2022-05-16 10:22:16,973 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Destops tab
+2022-05-16 10:22:20,609 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Show All Desktops inner drop down.
+2022-05-16 10:22:23,688 - .\src\test\resources\input\log4j.properties -INFO - user see all items are present in desktop page.
+2022-05-16 10:22:27,759 - .\src\test\resources\input\log4j.properties -INFO - ScenarioUser verify all items are present in Desktops tab PASSED
+2022-05-16 10:22:27,810 - .\src\test\resources\input\log4j.properties -INFO - scenarioUser add HP LP 3065  from Desktops tab to the cart started
+2022-05-16 10:22:30,983 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Destops tab
+2022-05-16 10:22:34,691 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Show All Desktops inner drop down.
+2022-05-16 10:22:37,801 - .\src\test\resources\input\log4j.properties -INFO - user clicked add to cart option on item
+2022-05-16 10:22:41,017 - .\src\test\resources\input\log4j.properties -INFO - user selected to add quantity by 1
+2022-05-16 10:22:44,120 - .\src\test\resources\input\log4j.properties -INFO - user clicked on add to Cart button
+2022-05-16 10:22:47,192 - .\src\test\resources\input\log4j.properties -INFO - user is able to see the success message.
+2022-05-16 10:22:51,266 - .\src\test\resources\input\log4j.properties -INFO - ScenarioUser add HP LP 3065  from Desktops tab to the cart PASSED
