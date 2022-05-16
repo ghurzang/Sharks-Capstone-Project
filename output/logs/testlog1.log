@@ -158,3 +158,80 @@
 2022-05-16 10:22:44,120 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on add to Cart button
 2022-05-16 10:22:47,192 [main] INFO .\src\test\resources\input\log4j.properties - user is able to see the success message.
 2022-05-16 10:22:51,266 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser add HP LP 3065  from Desktops tab to the cart PASSED
+2022-05-16 10:48:24,249 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser verify all items are present in Desktops tab started
+2022-05-16 10:48:29,454 [main] INFO .\src\test\resources\input\log4j.properties - user is on Home page.
+2022-05-16 10:48:32,593 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Destops tab
+2022-05-16 10:48:36,269 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show All Desktops inner drop down.
+2022-05-16 10:48:39,344 [main] INFO .\src\test\resources\input\log4j.properties - user see all items are present in desktop page.
+2022-05-16 10:48:43,442 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify all items are present in Desktops tab PASSED
+2022-05-16 10:48:43,491 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser add HP LP 3065  from Desktops tab to the cart started
+2022-05-16 10:48:47,275 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Destops tab
+2022-05-16 10:48:50,821 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show All Desktops inner drop down.
+2022-05-16 10:48:53,934 [main] INFO .\src\test\resources\input\log4j.properties - user clicked add to cart option on item
+2022-05-16 10:48:57,099 [main] INFO .\src\test\resources\input\log4j.properties - user selected to add quantity by 1
+2022-05-16 10:49:00,202 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on add to Cart button
+2022-05-16 10:49:03,278 [main] INFO .\src\test\resources\input\log4j.properties - user is able to see the success message.
+2022-05-16 10:49:07,381 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser add HP LP 3065  from Desktops tab to the cart PASSED
+2022-05-16 10:49:07,447 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser add Cannon EOS 5D from Desktops tab to the cart started
+2022-05-16 10:49:11,965 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser add Cannon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-05-16 10:52:01,901 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser verify all items are present in Desktops tab started
+2022-05-16 10:52:06,286 [main] INFO .\src\test\resources\input\log4j.properties - user is on Home page.
+2022-05-16 10:52:09,405 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Destops tab
+2022-05-16 10:52:13,070 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show All Desktops inner drop down.
+2022-05-16 10:52:16,146 [main] INFO .\src\test\resources\input\log4j.properties - user see all items are present in desktop page.
+2022-05-16 10:52:20,189 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify all items are present in Desktops tab PASSED
+2022-05-16 10:52:20,245 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser add HP LP 3065  from Desktops tab to the cart started
+2022-05-16 10:52:23,376 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Destops tab
+2022-05-16 10:52:26,970 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show All Desktops inner drop down.
+2022-05-16 10:52:30,083 [main] INFO .\src\test\resources\input\log4j.properties - user clicked add to cart option on item
+2022-05-16 10:52:33,286 [main] INFO .\src\test\resources\input\log4j.properties - user selected to add quantity by 1
+2022-05-16 10:52:36,384 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on add to Cart button
+2022-05-16 10:52:39,455 [main] INFO .\src\test\resources\input\log4j.properties - user is able to see the success message.
+2022-05-16 10:52:43,477 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser add HP LP 3065  from Desktops tab to the cart PASSED
+2022-05-16 10:52:43,534 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser add Cannon EOS 5D from Desktops tab to the cart started
+2022-05-16 10:52:47,358 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser add Cannon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-05-16 15:25:58,213 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser verify all items are present in Desktops tab started
+2022-05-16 15:26:02,748 [main] INFO .\src\test\resources\input\log4j.properties - user is on Home page.
+2022-05-16 15:26:05,903 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Destops tab
+2022-05-16 15:26:09,459 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show All Desktops inner drop down.
+2022-05-16 15:26:12,527 [main] INFO .\src\test\resources\input\log4j.properties - user see all items are present in desktop page.
+2022-05-16 15:26:16,592 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify all items are present in Desktops tab PASSED
+2022-05-16 15:26:16,654 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser add HP LP 3065  from Desktops tab to the cart started
+2022-05-16 15:26:19,811 [main] INFO .\src\test\resources\input\log4j.properties - user is on Home page.
+2022-05-16 15:26:22,910 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Destops tab
+2022-05-16 15:26:26,456 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show All Desktops inner drop down.
+2022-05-16 15:26:29,561 [main] INFO .\src\test\resources\input\log4j.properties - user clicked add to cart option on item
+2022-05-16 15:26:32,753 [main] INFO .\src\test\resources\input\log4j.properties - user selected to add quantity by 1
+2022-05-16 15:26:35,843 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on add to Cart button
+2022-05-16 15:26:38,909 [main] INFO .\src\test\resources\input\log4j.properties - user is able to see the success message.
+2022-05-16 15:26:42,947 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser add HP LP 3065  from Desktops tab to the cart PASSED
+2022-05-16 15:26:43,000 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser add Cannon EOS 5D from Desktops tab to the cart started
+2022-05-16 15:26:46,161 [main] INFO .\src\test\resources\input\log4j.properties - user is on Home page.
+2022-05-16 15:26:49,266 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Destops tab
+2022-05-16 15:26:52,991 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show All Desktops inner drop down.
+2022-05-16 15:26:56,796 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser add Cannon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-05-16 16:38:12,122 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser verify all items are present in Desktops tab started
+2022-05-16 16:38:16,692 [main] INFO .\src\test\resources\input\log4j.properties - user is on Home page.
+2022-05-16 16:38:19,815 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Destops tab
+2022-05-16 16:38:23,416 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show All Desktops inner drop down.
+2022-05-16 16:38:26,494 [main] INFO .\src\test\resources\input\log4j.properties - user see all items are present in desktop page.
+2022-05-16 16:38:30,563 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser verify all items are present in Desktops tab PASSED
+2022-05-16 16:38:30,619 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser add HP LP 3065  from Desktops tab to the cart started
+2022-05-16 16:38:33,911 [main] INFO .\src\test\resources\input\log4j.properties - user is on Home page.
+2022-05-16 16:38:37,053 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Destops tab
+2022-05-16 16:38:40,675 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show All Desktops inner drop down.
+2022-05-16 16:38:43,800 [main] INFO .\src\test\resources\input\log4j.properties - user clicked add to cart option on item
+2022-05-16 16:38:47,021 [main] INFO .\src\test\resources\input\log4j.properties - user selected to add quantity by 1
+2022-05-16 16:38:50,158 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on add to Cart button
+2022-05-16 16:38:53,235 [main] INFO .\src\test\resources\input\log4j.properties - user is able to see the success message.
+2022-05-16 16:38:57,452 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser add HP LP 3065  from Desktops tab to the cart PASSED
+2022-05-16 16:38:57,477 [main] INFO .\src\test\resources\input\log4j.properties - scenarioUser add Cannon EOS 5D from Desktops tab to the cart started
+2022-05-16 16:39:01,752 [main] INFO .\src\test\resources\input\log4j.properties - user is on Home page.
+2022-05-16 16:39:04,939 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Destops tab
+2022-05-16 16:39:08,619 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show All Desktops inner drop down.
+2022-05-16 16:39:11,754 [main] INFO .\src\test\resources\input\log4j.properties - user clicked add to cart option on Canon EOS 5D item.
+2022-05-16 16:39:14,926 [main] INFO .\src\test\resources\input\log4j.properties - user selected color from dropdown red.
+2022-05-16 16:39:18,066 [main] INFO .\src\test\resources\input\log4j.properties - user selected to add quantity by 1
+2022-05-16 16:39:21,170 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on add to Cart button
+2022-05-16 16:39:24,242 [main] INFO .\src\test\resources\input\log4j.properties - user is able to see the success message.
+2022-05-16 16:39:28,289 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioUser add Cannon EOS 5D from Desktops tab to the cart PASSED

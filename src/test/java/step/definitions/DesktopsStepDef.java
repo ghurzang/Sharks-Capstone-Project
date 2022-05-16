@@ -69,14 +69,28 @@ public class DesktopsStepDef extends Base {
 
 	}
 
+	@When("User click  ADD TO CART option on ‘Canon EOS 5D’ item")
+	public void user_click_add_to_cart_option_on_canon_eos_5d_item() {
+		desktops.addToCartCanonEOS5D();
+		logger.info("user clicked add to cart option on Canon EOS 5D item.");
+		util.threadSleep();
+	}
+
+	@When("User select color from dropdown ‘Red’")
+	public void user_select_color_from_dropdown_red() {
+		desktops.selectColorRed();
+		logger.info("user selected color from dropdown red.");
+		util.threadSleep();
+	}
+
+
 	@Then("User should see a message {string}")
 	public void user_should_see_a_message(String string) {
 		Assert.assertTrue(desktops.isSuccessMessage());
 		logger.info("user is able to see the success message.");
 		util.threadSleep();
 		util.takeScreenShots();
-		
+
 	}
-	
 
 }

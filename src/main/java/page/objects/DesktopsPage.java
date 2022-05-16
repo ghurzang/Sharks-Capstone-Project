@@ -45,6 +45,12 @@ public class DesktopsPage extends Base {
 	@FindBy(xpath = "//div[text()='Success: You have added ']")
 	private WebElement successMessage;
 
+	@FindBy(xpath = "//div/button[@onclick=\"cart.add('30', '1');\"]")
+	private WebElement addToCartCanonEOS5D;
+
+	@FindBy(xpath = "//select/option[@value='15']")
+	private WebElement selectColorRed;
+
 	public boolean isLogoPresent() {
 		if (logo.isDisplayed())
 			return true;
@@ -75,11 +81,21 @@ public class DesktopsPage extends Base {
 
 	public void selectQuatity() {
 		selectQty.click();
-				
+
 	}
 
 	public void addQtyToCart() {
 		addQtyToCart.click();
+	}
+
+	public void addToCartCanonEOS5D() {
+		addToCartCanonEOS5D.click();
+
+	}
+
+	public void selectColorRed() {
+		selectColorRed.click();
+
 	}
 
 	public boolean isSuccessMessage() {
