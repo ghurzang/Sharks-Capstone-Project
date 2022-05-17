@@ -50,6 +50,27 @@ public class DesktopsPage extends Base {
 
 	@FindBy(xpath = "//select/option[@value='15']")
 	private WebElement selectColorRed;
+	
+	@FindBy(xpath = "//img[@title='Canon EOS 5D Camera']")
+	private WebElement clickCanonEOS5DCamera;
+	
+	@FindBy(xpath = "//a[text()='Write a review']")
+	private WebElement writeReview;
+	
+	@FindBy(xpath = "//input[@id='input-name']")
+	private WebElement writeYourName;
+	
+	@FindBy(xpath = "//textarea[@id='input-review']")
+	private WebElement writeYourReview;
+	
+	@FindBy(xpath = "//input[@value='5']")
+	private WebElement clickGoodRate;
+	
+	@FindBy(xpath = "//button[text()='Continue']")
+	private WebElement clickContinueBtn;
+	
+	@FindBy(xpath = "//div[@class='alert alert-success alert-dismissible']")
+	private WebElement thanksReviewMessage;
 
 	public boolean isLogoPresent() {
 		if (logo.isDisplayed())
@@ -104,4 +125,37 @@ public class DesktopsPage extends Base {
 		else
 			return false;
 	}
+	
+	public void clickCanonEOS5DCamera() {
+		clickCanonEOS5DCamera.click();
+	}
+	
+	public void writeReview() {
+		writeReview.click();
+	}
+	
+	public void writeYourName(String yourNameValue) {
+		writeYourName.sendKeys(yourNameValue);
+	}
+	
+	public void writeYourReview(String yourReviewValue) {
+		writeYourReview.sendKeys(yourReviewValue);
+		
+	}
+	
+	public void clickGoodRate() {
+		clickGoodRate.click();
+	}
+	
+	public void clickContinueBtn() {
+		clickContinueBtn.click();
+	}
+	
+	public boolean isthanksReviewMessage() {
+		if(thanksReviewMessage.isDisplayed())
+			return true;
+		else
+			return false;
+	}
 }
+

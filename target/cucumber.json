@@ -3,11 +3,11 @@
     "line": 2,
     "elements": [
       {
-        "start_timestamp": "2022-05-16T20:38:11.810Z",
+        "start_timestamp": "2022-05-17T18:46:15.973Z",
         "before": [
           {
             "result": {
-              "duration": 4586024300,
+              "duration": 4093313100,
               "status": "passed"
             },
             "match": {
@@ -22,7 +22,7 @@
         "after": [
           {
             "result": {
-              "duration": 837341200,
+              "duration": 799020600,
               "status": "passed"
             },
             "match": {
@@ -35,7 +35,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3162422100,
+              "duration": 232378400,
               "status": "passed"
             },
             "line": 5,
@@ -47,7 +47,7 @@
           },
           {
             "result": {
-              "duration": 3114909300,
+              "duration": 127658000,
               "status": "passed"
             },
             "line": 6,
@@ -59,7 +59,7 @@
           },
           {
             "result": {
-              "duration": 3611444300,
+              "duration": 620340900,
               "status": "passed"
             },
             "line": 7,
@@ -71,7 +71,7 @@
           },
           {
             "result": {
-              "duration": 3296077100,
+              "duration": 3085917200,
               "status": "passed"
             },
             "line": 8,
@@ -89,11 +89,11 @@
         ]
       },
       {
-        "start_timestamp": "2022-05-16T20:38:30.589Z",
+        "start_timestamp": "2022-05-17T18:46:25.073Z",
         "before": [
           {
             "result": {
-              "duration": 3181574500,
+              "duration": 3026285200,
               "status": "passed"
             },
             "match": {
@@ -108,7 +108,7 @@
         "after": [
           {
             "result": {
-              "duration": 865243500,
+              "duration": 1260661400,
               "status": "passed"
             },
             "match": {
@@ -121,7 +121,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3145807800,
+              "duration": 145611900,
               "status": "passed"
             },
             "line": 11,
@@ -133,7 +133,7 @@
           },
           {
             "result": {
-              "duration": 3146384300,
+              "duration": 124667300,
               "status": "passed"
             },
             "line": 12,
@@ -145,7 +145,7 @@
           },
           {
             "result": {
-              "duration": 3607891500,
+              "duration": 535567400,
               "status": "passed"
             },
             "line": 13,
@@ -157,7 +157,7 @@
           },
           {
             "result": {
-              "duration": 3138897800,
+              "duration": 80784200,
               "status": "passed"
             },
             "line": 14,
@@ -175,7 +175,7 @@
           },
           {
             "result": {
-              "duration": 3218428600,
+              "duration": 1426749700,
               "status": "passed"
             },
             "line": 15,
@@ -193,7 +193,7 @@
           },
           {
             "result": {
-              "duration": 3130850400,
+              "duration": 118684600,
               "status": "passed"
             },
             "line": 16,
@@ -205,7 +205,7 @@
           },
           {
             "result": {
-              "duration": 3421577800,
+              "duration": 4074767100,
               "status": "passed"
             },
             "line": 17,
@@ -229,11 +229,11 @@
         ]
       },
       {
-        "start_timestamp": "2022-05-16T20:38:57.465Z",
+        "start_timestamp": "2022-05-17T18:46:35.885Z",
         "before": [
           {
             "result": {
-              "duration": 4133474400,
+              "duration": 3124775700,
               "status": "passed"
             },
             "match": {
@@ -248,7 +248,7 @@
         "after": [
           {
             "result": {
-              "duration": 819301500,
+              "duration": 1000290100,
               "status": "passed"
             },
             "match": {
@@ -261,7 +261,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3156656600,
+              "duration": 156581800,
               "status": "passed"
             },
             "line": 21,
@@ -273,7 +273,7 @@
           },
           {
             "result": {
-              "duration": 3189306900,
+              "duration": 141620500,
               "status": "passed"
             },
             "line": 22,
@@ -285,7 +285,7 @@
           },
           {
             "result": {
-              "duration": 3682630200,
+              "duration": 530582000,
               "status": "passed"
             },
             "line": 23,
@@ -297,7 +297,7 @@
           },
           {
             "result": {
-              "duration": 3136693100,
+              "duration": 3090024900,
               "status": "passed"
             },
             "line": 24,
@@ -309,7 +309,7 @@
           },
           {
             "result": {
-              "duration": 3177843500,
+              "duration": 3115566000,
               "status": "passed"
             },
             "line": 25,
@@ -321,7 +321,7 @@
           },
           {
             "result": {
-              "duration": 3134979800,
+              "duration": 110720300,
               "status": "passed"
             },
             "line": 26,
@@ -339,7 +339,7 @@
           },
           {
             "result": {
-              "duration": 3094567000,
+              "duration": 108701700,
               "status": "passed"
             },
             "line": 27,
@@ -351,7 +351,7 @@
           },
           {
             "result": {
-              "duration": 3296029100,
+              "duration": 3510189600,
               "status": "passed"
             },
             "line": 28,
@@ -364,6 +364,162 @@
                 }
               ],
               "location": "step.definitions.DesktopsStepDef.user_should_see_a_message(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Test"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-05-17T18:46:50.796Z",
+        "before": [
+          {
+            "result": {
+              "duration": 3087373600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step.definitions.Initializer.beforeHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 30,
+        "name": "User add a review to Canon EOS 5D item in Desktops tab",
+        "description": "",
+        "id": "desktops;user-add-a-review-to-canon-eos-5d-item-in-desktops-tab",
+        "after": [
+          {
+            "result": {
+              "duration": 801476800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step.definitions.Initializer.afterHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 122673800,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "User in on Retail website",
+            "match": {
+              "location": "step.definitions.DesktopsStepDef.user_in_on_retail_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 101735400,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "User click on Desktops tab",
+            "match": {
+              "location": "step.definitions.DesktopsStepDef.user_click_on_desktops_tab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 564489700,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "User click on Show all desktops",
+            "match": {
+              "location": "step.definitions.DesktopsStepDef.user_click_on_show_all_desktops()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4303341800,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "User click on Canon EOS 5D item",
+            "match": {
+              "location": "step.definitions.DesktopsStepDef.user_click_on_canon_eos_5d_item()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3107771800,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "User click on write a review link",
+            "match": {
+              "location": "step.definitions.DesktopsStepDef.user_click_on_write_a_review_link()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 9452003100,
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "user fill the review information with below information",
+            "match": {
+              "location": "step.definitions.DesktopsStepDef.user_fill_the_review_information_with_below_information(io.cucumber.datatable.DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "yourName",
+                  "yourReview",
+                  "Rating"
+                ]
+              },
+              {
+                "cells": [
+                  "Ghurzang",
+                  "I like this product, because Canon EOS is quality brand.",
+                  "Good"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3103473700,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "User click on Continue Button",
+            "match": {
+              "location": "step.definitions.DesktopsStepDef.user_click_on_continue_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 247566000,
+              "status": "passed"
+            },
+            "line": 40,
+            "name": "User should see a message with \u0027Thank you for your review. It has been submitted to the webmaster for approval.\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027Thank you for your review. It has been submitted to the webmaster for approval.\u0027",
+                  "offset": 31
+                }
+              ],
+              "location": "step.definitions.DesktopsStepDef.user_should_see_a_message_with(java.lang.String)"
             },
             "keyword": "Then "
           }
