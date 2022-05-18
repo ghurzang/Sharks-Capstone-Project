@@ -699,3 +699,56 @@
 2022-05-17 14:47:11,631 - .\src\test\resources\input\log4j.properties -INFO - user clicked on continue button.
 2022-05-17 14:47:14,708 - .\src\test\resources\input\log4j.properties -INFO - user is able to see the thanks for review message.
 2022-05-17 14:47:15,692 - .\src\test\resources\input\log4j.properties -INFO - ScenarioUser add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-05-18 08:18:21,969 - .\src\test\resources\input\log4j.properties -INFO - scenarioAdd and remove Mac book from cart started
+2022-05-18 08:18:27,119 - .\src\test\resources\input\log4j.properties -INFO - ScenarioAdd and remove Mac book from cart UNDEFINED
+2022-05-18 11:06:00,592 - .\src\test\resources\input\log4j.properties -INFO - scenarioAdd and remove Mac book from cart started
+2022-05-18 11:06:05,672 - .\src\test\resources\input\log4j.properties -INFO - User is on retail website.
+2022-05-18 11:06:36,530 - .\src\test\resources\input\log4j.properties -INFO - ScenarioAdd and remove Mac book from cart FAILED
+2022-05-18 12:13:28,234 - .\src\test\resources\input\log4j.properties -INFO - scenarioAdd and remove Mac book from cart started
+2022-05-18 12:13:33,369 - .\src\test\resources\input\log4j.properties -INFO - User is on retail website.
+2022-05-18 12:13:33,518 - .\src\test\resources\input\log4j.properties -INFO - User clicked on laptops and notebooks tab.
+2022-05-18 12:13:33,969 - .\src\test\resources\input\log4j.properties -INFO - User clicked on show all laptop and notebooks option.
+2022-05-18 12:13:35,314 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Macbook item.
+2022-05-18 12:13:36,136 - .\src\test\resources\input\log4j.properties -INFO - ScenarioAdd and remove Mac book from cart UNDEFINED
+2022-05-18 12:15:02,342 - .\src\test\resources\input\log4j.properties -INFO - scenarioAdd and remove Mac book from cart started
+2022-05-18 12:15:06,645 - .\src\test\resources\input\log4j.properties -INFO - User is on retail website.
+2022-05-18 12:15:06,777 - .\src\test\resources\input\log4j.properties -INFO - User clicked on laptops and notebooks tab.
+2022-05-18 12:15:07,234 - .\src\test\resources\input\log4j.properties -INFO - User clicked on show all laptop and notebooks option.
+2022-05-18 12:15:08,636 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Macbook item.
+2022-05-18 12:15:08,744 - .\src\test\resources\input\log4j.properties -INFO - User clicked add to cart button. 
+2022-05-18 12:15:09,077 - .\src\test\resources\input\log4j.properties -INFO - user is able to see the success message.
+2022-05-18 12:15:12,460 - .\src\test\resources\input\log4j.properties -INFO - User saw the success message.
+2022-05-18 12:15:13,364 - .\src\test\resources\input\log4j.properties -INFO - ScenarioAdd and remove Mac book from cart PASSED
+2022-05-18 12:36:24,502 - .\src\test\resources\input\log4j.properties -INFO - scenarioAdd and remove Mac book from cart started
+2022-05-18 12:36:28,711 - .\src\test\resources\input\log4j.properties -INFO - User is on retail website.
+2022-05-18 12:36:28,825 - .\src\test\resources\input\log4j.properties -INFO - User clicked on laptops and notebooks tab.
+2022-05-18 12:36:29,293 - .\src\test\resources\input\log4j.properties -INFO - User clicked on show all laptop and notebooks option.
+2022-05-18 12:36:30,676 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Macbook item.
+2022-05-18 12:36:30,787 - .\src\test\resources\input\log4j.properties -INFO - User clicked add to cart button. 
+2022-05-18 12:36:31,143 - .\src\test\resources\input\log4j.properties -INFO - user is able to see the success message.
+2022-05-18 12:36:34,521 - .\src\test\resources\input\log4j.properties -INFO - User saw the success message.
+2022-05-18 12:37:05,389 - .\src\test\resources\input\log4j.properties -INFO - ScenarioAdd and remove Mac book from cart FAILED
+2022-05-18 12:42:10,430 - .\src\test\resources\input\log4j.properties -INFO - scenarioAdd and remove Mac book from cart started
+2022-05-18 12:42:15,015 - .\src\test\resources\input\log4j.properties -INFO - User is on retail website.
+2022-05-18 12:42:15,141 - .\src\test\resources\input\log4j.properties -INFO - User clicked on laptops and notebooks tab.
+2022-05-18 12:42:15,568 - .\src\test\resources\input\log4j.properties -INFO - User clicked on show all laptop and notebooks option.
+2022-05-18 12:42:16,923 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Macbook item.
+2022-05-18 12:42:17,035 - .\src\test\resources\input\log4j.properties -INFO - User clicked add to cart button. 
+2022-05-18 12:42:17,375 - .\src\test\resources\input\log4j.properties -INFO - user is able to see the success message.
+2022-05-18 12:42:20,771 - .\src\test\resources\input\log4j.properties -INFO - User saw the success message.
+2022-05-18 12:42:20,869 - .\src\test\resources\input\log4j.properties -INFO - user clicked on cart option
+2022-05-18 12:42:20,973 - .\src\test\resources\input\log4j.properties -INFO - user clicked on red X button to remove the item from cart.
+2022-05-18 12:42:21,156 - .\src\test\resources\input\log4j.properties -INFO - Item removed and cart show zero amount.
+2022-05-18 12:42:22,122 - .\src\test\resources\input\log4j.properties -INFO - ScenarioAdd and remove Mac book from cart PASSED
+2022-05-18 12:43:33,979 - .\src\test\resources\input\log4j.properties -INFO - scenarioAdd and remove Mac book from cart started
+2022-05-18 12:43:38,175 - .\src\test\resources\input\log4j.properties -INFO - User is on retail website.
+2022-05-18 12:43:38,321 - .\src\test\resources\input\log4j.properties -INFO - User clicked on laptops and notebooks tab.
+2022-05-18 12:43:38,780 - .\src\test\resources\input\log4j.properties -INFO - User clicked on show all laptop and notebooks option.
+2022-05-18 12:43:40,117 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Macbook item.
+2022-05-18 12:43:40,240 - .\src\test\resources\input\log4j.properties -INFO - User clicked add to cart button. 
+2022-05-18 12:43:40,544 - .\src\test\resources\input\log4j.properties -INFO - user is able to see the success message.
+2022-05-18 12:43:43,876 - .\src\test\resources\input\log4j.properties -INFO - User saw the success message.
+2022-05-18 12:43:43,956 - .\src\test\resources\input\log4j.properties -INFO - user clicked on cart option
+2022-05-18 12:43:44,062 - .\src\test\resources\input\log4j.properties -INFO - user clicked on red X button to remove the item from cart.
+2022-05-18 12:43:44,243 - .\src\test\resources\input\log4j.properties -INFO - Item removed and cart show zero amount.
+2022-05-18 12:43:45,457 - .\src\test\resources\input\log4j.properties -INFO - ScenarioAdd and remove Mac book from cart PASSED

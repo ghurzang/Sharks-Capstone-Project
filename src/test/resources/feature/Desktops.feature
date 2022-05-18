@@ -1,4 +1,4 @@
-@Test
+@Desktops
 Feature: Desktops 
 
 Scenario: User verify all items are present in Desktops tab
