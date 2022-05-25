@@ -30,7 +30,6 @@ public class LaptopsAndNoteBooksStepDef extends Base {
 		laptopsNotebooks.clickShowAllLaptopsAndNotebooks();
 		logger.info("User clicked on show all laptop and notebooks option.");
 		
-	   
 	}
 	@When("User click on MacBook item")
 	public void user_click_on_mac_book_item() {
@@ -38,7 +37,6 @@ public class LaptopsAndNoteBooksStepDef extends Base {
 		logger.info("User clicked on Macbook item.");
 		
 	}
-	
 	@When("User click add into Cart button")
 	public void user_click_add_into_cart_button() {
 		laptopsNotebooks.clickAddToCartBtn();
@@ -69,12 +67,37 @@ public class LaptopsAndNoteBooksStepDef extends Base {
 		logger.info("user clicked on red X button to remove the item from cart.");
 	   
 	}
-	@Then("item should be removed and cart should show {string}")
+	@When("item should be removed and cart should show {string}")
 	public void item_should_be_removed_and_cart_should_show(String string) {
 		Assert.assertTrue(laptopsNotebooks.showCartTotalZero());
 		logger.info("Item removed and cart show zero amount.");
 		util.takeScreenShots();
 	   
 	}
+	@When("User click on product comparison icon on {string}")
+	public void user_click_on_product_comparison_icon_on(String string) {
+		laptopsNotebooks.compateBtnMacBook();
+		logger.info("user cicked on product comparison icon on MacBook.");
+
+	}
+	@When("User click on Product comparison link")
+	public void user_click_on_product_comparison_link() {
+		laptopsNotebooks.compareBtnMacBookAir();
+		logger.info("user clicked on product comparison link on MacBookAir.");
+	}	
+	@Then("User should see message {string}")
+	public void User_should_see_a_message(String string) {
+		Assert.assertTrue(laptopsNotebooks.comparisonSuccessMessage());
+		logger.info("user is able to see comparison success message.");
+	
+	}
+	@Then("User should see Product Comparison Chart")
+	public void user_should_see_product_comparison_chart() {
+		laptopsNotebooks.clickComparisonLink();
+		logger.info("user saw product comparison chart.");
+
+	}
+
+	
 
 }
