@@ -890,3 +890,209 @@
 2022-05-24 22:18:10,731 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on product comparison link on MacBookAir.
 2022-05-24 22:18:11,248 [main] INFO .\src\test\resources\input\log4j.properties - user saw product comparison chart.
 2022-05-24 22:18:12,065 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct Comparison PASSED
+2022-05-25 10:10:52,928 [main] INFO .\src\test\resources\input\log4j.properties - scenarioAdd and remove Mac book from cart started
+2022-05-25 10:10:58,963 [main] INFO .\src\test\resources\input\log4j.properties - User is on retail website.
+2022-05-25 10:10:59,123 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on laptops and notebooks tab.
+2022-05-25 10:10:59,680 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on show all laptop and notebooks option.
+2022-05-25 10:11:01,064 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Macbook item.
+2022-05-25 10:11:01,161 [main] INFO .\src\test\resources\input\log4j.properties - User clicked add to cart button. 
+2022-05-25 10:11:01,542 [main] INFO .\src\test\resources\input\log4j.properties - user is able to see the success message.
+2022-05-25 10:11:04,900 [main] INFO .\src\test\resources\input\log4j.properties - User saw the success message.
+2022-05-25 10:11:04,998 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on cart option
+2022-05-25 10:11:05,101 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on red X button to remove the item from cart.
+2022-05-25 10:11:05,278 [main] INFO .\src\test\resources\input\log4j.properties - Item removed and cart show zero amount.
+2022-05-25 10:11:06,348 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdd and remove Mac book from cart PASSED
+2022-05-25 10:11:06,380 [main] INFO .\src\test\resources\input\log4j.properties - scenarioProduct Comparison started
+2022-05-25 10:11:09,676 [main] INFO .\src\test\resources\input\log4j.properties - User is on retail website.
+2022-05-25 10:11:09,798 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on laptops and notebooks tab.
+2022-05-25 10:11:10,296 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on show all laptop and notebooks option.
+2022-05-25 10:11:10,392 [main] INFO .\src\test\resources\input\log4j.properties - user cicked on product comparison icon on MacBook.
+2022-05-25 10:11:10,474 [main] INFO .\src\test\resources\input\log4j.properties - user cicked on product comparison icon on MacBook.
+2022-05-25 10:11:10,555 [main] INFO .\src\test\resources\input\log4j.properties - user is able to see comparison success message.
+2022-05-25 10:11:12,510 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct Comparison FAILED
+2022-05-25 10:11:12,633 [main] INFO .\src\test\resources\input\log4j.properties - scenarioAdding an item to Wish list started
+2022-05-25 10:11:15,778 [main] INFO .\src\test\resources\input\log4j.properties - User is on retail website.
+2022-05-25 10:11:15,897 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on laptops and notebooks tab.
+2022-05-25 10:11:16,312 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on show all laptop and notebooks option.
+2022-05-25 10:11:17,099 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdding an item to Wish list UNDEFINED
+2022-05-25 10:27:53,589 [main] INFO .\src\test\resources\input\log4j.properties - scenarioAdd and remove Mac book from cart started
+2022-05-25 10:27:57,930 [main] INFO .\src\test\resources\input\log4j.properties - User is on retail website.
+2022-05-25 10:27:58,125 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on laptops and notebooks tab.
+2022-05-25 10:27:58,663 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on show all laptop and notebooks option.
+2022-05-25 10:28:00,111 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Macbook item.
+2022-05-25 10:28:00,223 [main] INFO .\src\test\resources\input\log4j.properties - User clicked add to cart button. 
+2022-05-25 10:28:00,615 [main] INFO .\src\test\resources\input\log4j.properties - user is able to see the success message.
+2022-05-25 10:28:03,979 [main] INFO .\src\test\resources\input\log4j.properties - User saw the success message.
+2022-05-25 10:28:04,099 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on cart option
+2022-05-25 10:28:04,218 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on red X button to remove the item from cart.
+2022-05-25 10:28:04,433 [main] INFO .\src\test\resources\input\log4j.properties - Item removed and cart show zero amount.
+2022-05-25 10:28:05,527 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdd and remove Mac book from cart PASSED
+2022-05-25 10:28:05,553 [main] INFO .\src\test\resources\input\log4j.properties - scenarioProduct Comparison started
+2022-05-25 10:28:09,088 [main] INFO .\src\test\resources\input\log4j.properties - User is on retail website.
+2022-05-25 10:28:09,198 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on laptops and notebooks tab.
+2022-05-25 10:28:09,676 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on show all laptop and notebooks option.
+2022-05-25 10:28:09,785 [main] INFO .\src\test\resources\input\log4j.properties - user cicked on product comparison icon on MacBook.
+2022-05-25 10:28:09,858 [main] INFO .\src\test\resources\input\log4j.properties - user cicked on product comparison icon on MacBook.
+2022-05-25 10:28:09,999 [main] INFO .\src\test\resources\input\log4j.properties - user is able to see comparison success message.
+2022-05-25 10:28:11,912 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct Comparison FAILED
+2022-05-25 10:28:12,030 [main] INFO .\src\test\resources\input\log4j.properties - scenarioAdding an item to Wish list started
+2022-05-25 10:28:15,091 [main] INFO .\src\test\resources\input\log4j.properties - User is on retail website.
+2022-05-25 10:28:15,207 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on laptops and notebooks tab.
+2022-05-25 10:28:15,637 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on show all laptop and notebooks option.
+2022-05-25 10:28:16,478 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdding an item to Wish list UNDEFINED
+2022-05-25 10:44:57,640 [main] INFO .\src\test\resources\input\log4j.properties - scenarioAdd and remove Mac book from cart started
+2022-05-25 10:45:03,659 [main] INFO .\src\test\resources\input\log4j.properties - User is on retail website.
+2022-05-25 10:45:03,794 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on laptops and notebooks tab.
+2022-05-25 10:45:04,393 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on show all laptop and notebooks option.
+2022-05-25 10:45:05,891 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Macbook item.
+2022-05-25 10:45:06,195 [main] INFO .\src\test\resources\input\log4j.properties - User clicked add to cart button. 
+2022-05-25 10:45:06,378 [main] INFO .\src\test\resources\input\log4j.properties - user is able to see the success message.
+2022-05-25 10:45:09,732 [main] INFO .\src\test\resources\input\log4j.properties - User saw the success message.
+2022-05-25 10:45:09,817 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on cart option
+2022-05-25 10:45:09,933 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on red X button to remove the item from cart.
+2022-05-25 10:45:10,062 [main] INFO .\src\test\resources\input\log4j.properties - Item removed and cart show zero amount.
+2022-05-25 10:45:11,591 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdd and remove Mac book from cart PASSED
+2022-05-25 10:45:11,639 [main] INFO .\src\test\resources\input\log4j.properties - scenarioProduct Comparison started
+2022-05-25 10:45:14,851 [main] INFO .\src\test\resources\input\log4j.properties - User is on retail website.
+2022-05-25 10:45:14,947 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on laptops and notebooks tab.
+2022-05-25 10:45:15,458 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on show all laptop and notebooks option.
+2022-05-25 10:45:15,596 [main] INFO .\src\test\resources\input\log4j.properties - user cicked on product comparison icon on MacBook.
+2022-05-25 10:45:15,672 [main] INFO .\src\test\resources\input\log4j.properties - user cicked on product comparison icon on MacBook.
+2022-05-25 10:45:15,812 [main] INFO .\src\test\resources\input\log4j.properties - user is able to see comparison success message.
+2022-05-25 10:45:17,714 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct Comparison FAILED
+2022-05-25 10:45:17,833 [main] INFO .\src\test\resources\input\log4j.properties - scenarioAdding an item to Wish list started
+2022-05-25 10:45:21,130 [main] INFO .\src\test\resources\input\log4j.properties - User is on retail website.
+2022-05-25 10:45:21,223 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on laptops and notebooks tab.
+2022-05-25 10:45:21,667 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on show all laptop and notebooks option.
+2022-05-25 10:45:22,509 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdding an item to Wish list UNDEFINED
+2022-05-25 10:56:11,682 [main] INFO .\src\test\resources\input\log4j.properties - scenarioAdd and remove Mac book from cart started
+2022-05-25 10:56:16,182 [main] INFO .\src\test\resources\input\log4j.properties - User is on retail website.
+2022-05-25 10:56:16,359 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on laptops and notebooks tab.
+2022-05-25 10:56:16,844 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on show all laptop and notebooks option.
+2022-05-25 10:56:18,300 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Macbook item.
+2022-05-25 10:56:18,407 [main] INFO .\src\test\resources\input\log4j.properties - User clicked add to cart button. 
+2022-05-25 10:56:18,606 [main] INFO .\src\test\resources\input\log4j.properties - user is able to see the success message.
+2022-05-25 10:56:21,987 [main] INFO .\src\test\resources\input\log4j.properties - User saw the success message.
+2022-05-25 10:56:22,061 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on cart option
+2022-05-25 10:56:22,158 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on red X button to remove the item from cart.
+2022-05-25 10:56:22,289 [main] INFO .\src\test\resources\input\log4j.properties - Item removed and cart show zero amount.
+2022-05-25 10:56:23,404 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdd and remove Mac book from cart PASSED
+2022-05-25 10:56:23,440 [main] INFO .\src\test\resources\input\log4j.properties - scenarioProduct Comparison started
+2022-05-25 10:56:26,598 [main] INFO .\src\test\resources\input\log4j.properties - User is on retail website.
+2022-05-25 10:56:26,689 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on laptops and notebooks tab.
+2022-05-25 10:56:27,127 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on show all laptop and notebooks option.
+2022-05-25 10:56:27,262 [main] INFO .\src\test\resources\input\log4j.properties - user cicked on product comparison icon on MacBook.
+2022-05-25 10:56:27,323 [main] INFO .\src\test\resources\input\log4j.properties - user cicked on product comparison icon on MacBook.
+2022-05-25 10:56:27,466 [main] INFO .\src\test\resources\input\log4j.properties - user is able to see comparison success message.
+2022-05-25 10:56:27,586 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on product comparison link on MacBookAir.
+2022-05-25 10:56:28,538 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct Comparison FAILED
+2022-05-25 10:56:28,649 [main] INFO .\src\test\resources\input\log4j.properties - scenarioAdding an item to Wish list started
+2022-05-25 10:56:32,670 [main] INFO .\src\test\resources\input\log4j.properties - User is on retail website.
+2022-05-25 10:56:32,802 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on laptops and notebooks tab.
+2022-05-25 10:56:33,272 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on show all laptop and notebooks option.
+2022-05-25 10:56:34,097 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdding an item to Wish list UNDEFINED
+2022-05-25 11:04:35,687 [main] INFO .\src\test\resources\input\log4j.properties - scenarioAdd and remove Mac book from cart started
+2022-05-25 11:04:41,130 [main] INFO .\src\test\resources\input\log4j.properties - User is on retail website.
+2022-05-25 11:04:41,254 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on laptops and notebooks tab.
+2022-05-25 11:04:41,805 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on show all laptop and notebooks option.
+2022-05-25 11:04:43,292 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Macbook item.
+2022-05-25 11:04:43,401 [main] INFO .\src\test\resources\input\log4j.properties - User clicked add to cart button. 
+2022-05-25 11:04:43,744 [main] INFO .\src\test\resources\input\log4j.properties - user is able to see the success message.
+2022-05-25 11:04:47,106 [main] INFO .\src\test\resources\input\log4j.properties - User saw the success message.
+2022-05-25 11:04:47,179 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on cart option
+2022-05-25 11:04:47,283 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on red X button to remove the item from cart.
+2022-05-25 11:04:47,426 [main] INFO .\src\test\resources\input\log4j.properties - Item removed and cart show zero amount.
+2022-05-25 11:04:48,502 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdd and remove Mac book from cart PASSED
+2022-05-25 11:04:48,531 [main] INFO .\src\test\resources\input\log4j.properties - scenarioProduct Comparison started
+2022-05-25 11:04:53,626 [main] INFO .\src\test\resources\input\log4j.properties - User is on retail website.
+2022-05-25 11:04:53,761 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on laptops and notebooks tab.
+2022-05-25 11:04:54,206 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on show all laptop and notebooks option.
+2022-05-25 11:04:54,341 [main] INFO .\src\test\resources\input\log4j.properties - user cicked on product comparison icon on MacBook.
+2022-05-25 11:04:54,460 [main] INFO .\src\test\resources\input\log4j.properties - user cicked on product comparison icon on MacBook.
+2022-05-25 11:04:54,550 [main] INFO .\src\test\resources\input\log4j.properties - user is able to see comparison success message.
+2022-05-25 11:04:56,559 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct Comparison FAILED
+2022-05-25 11:04:56,680 [main] INFO .\src\test\resources\input\log4j.properties - scenarioAdding an item to Wish list started
+2022-05-25 11:05:02,721 [main] INFO .\src\test\resources\input\log4j.properties - User is on retail website.
+2022-05-25 11:05:02,822 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on laptops and notebooks tab.
+2022-05-25 11:05:03,361 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on show all laptop and notebooks option.
+2022-05-25 11:05:04,158 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdding an item to Wish list UNDEFINED
+2022-05-25 11:12:52,931 [main] INFO .\src\test\resources\input\log4j.properties - scenarioAdd and remove Mac book from cart started
+2022-05-25 11:12:57,340 [main] INFO .\src\test\resources\input\log4j.properties - User is on retail website.
+2022-05-25 11:12:57,547 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on laptops and notebooks tab.
+2022-05-25 11:12:58,136 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on show all laptop and notebooks option.
+2022-05-25 11:12:59,523 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Macbook item.
+2022-05-25 11:12:59,666 [main] INFO .\src\test\resources\input\log4j.properties - User clicked add to cart button. 
+2022-05-25 11:12:59,960 [main] INFO .\src\test\resources\input\log4j.properties - user is able to see the success message.
+2022-05-25 11:13:03,321 [main] INFO .\src\test\resources\input\log4j.properties - User saw the success message.
+2022-05-25 11:13:03,460 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on cart option
+2022-05-25 11:13:03,589 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on red X button to remove the item from cart.
+2022-05-25 11:13:03,777 [main] INFO .\src\test\resources\input\log4j.properties - Item removed and cart show zero amount.
+2022-05-25 11:13:04,905 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdd and remove Mac book from cart PASSED
+2022-05-25 11:13:04,940 [main] INFO .\src\test\resources\input\log4j.properties - scenarioProduct Comparison started
+2022-05-25 11:13:08,160 [main] INFO .\src\test\resources\input\log4j.properties - User is on retail website.
+2022-05-25 11:13:08,260 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on laptops and notebooks tab.
+2022-05-25 11:13:08,688 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on show all laptop and notebooks option.
+2022-05-25 11:13:08,794 [main] INFO .\src\test\resources\input\log4j.properties - user cicked on product comparison icon on MacBook.
+2022-05-25 11:13:08,867 [main] INFO .\src\test\resources\input\log4j.properties - user cicked on product comparison icon on MacBook.
+2022-05-25 11:13:09,819 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct Comparison FAILED
+2022-05-25 11:13:09,932 [main] INFO .\src\test\resources\input\log4j.properties - scenarioAdding an item to Wish list started
+2022-05-25 11:13:13,507 [main] INFO .\src\test\resources\input\log4j.properties - User is on retail website.
+2022-05-25 11:13:13,639 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on laptops and notebooks tab.
+2022-05-25 11:13:14,058 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on show all laptop and notebooks option.
+2022-05-25 11:13:14,867 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdding an item to Wish list UNDEFINED
+2022-05-25 11:45:56,838 [main] INFO .\src\test\resources\input\log4j.properties - scenarioAdd and remove Mac book from cart started
+2022-05-25 11:46:02,607 [main] INFO .\src\test\resources\input\log4j.properties - User is on retail website.
+2022-05-25 11:46:02,798 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on laptops and notebooks tab.
+2022-05-25 11:46:03,275 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on show all laptop and notebooks option.
+2022-05-25 11:46:04,846 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Macbook item.
+2022-05-25 11:46:04,948 [main] INFO .\src\test\resources\input\log4j.properties - User clicked add to cart button. 
+2022-05-25 11:46:05,297 [main] INFO .\src\test\resources\input\log4j.properties - user is able to see the success message.
+2022-05-25 11:46:08,692 [main] INFO .\src\test\resources\input\log4j.properties - User saw the success message.
+2022-05-25 11:46:08,783 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on cart option
+2022-05-25 11:46:08,897 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on red X button to remove the item from cart.
+2022-05-25 11:46:09,102 [main] INFO .\src\test\resources\input\log4j.properties - Item removed and cart show zero amount.
+2022-05-25 11:46:09,945 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdd and remove Mac book from cart PASSED
+2022-05-25 11:46:10,024 [main] INFO .\src\test\resources\input\log4j.properties - scenarioProduct Comparison started
+2022-05-25 11:46:13,872 [main] INFO .\src\test\resources\input\log4j.properties - User is on retail website.
+2022-05-25 11:46:13,980 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on laptops and notebooks tab.
+2022-05-25 11:46:14,436 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on show all laptop and notebooks option.
+2022-05-25 11:46:14,566 [main] INFO .\src\test\resources\input\log4j.properties - user cicked on product comparison icon on MacBook.
+2022-05-25 11:46:17,637 [main] INFO .\src\test\resources\input\log4j.properties - user cicked on product comparison icon on MacBook.
+2022-05-25 11:46:20,705 [main] INFO .\src\test\resources\input\log4j.properties - user is able to see comparison success message.
+2022-05-25 11:46:20,780 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on product comparison link on MacBookAir.
+2022-05-25 11:46:21,184 [main] INFO .\src\test\resources\input\log4j.properties - user saw product comparison chart.
+2022-05-25 11:46:22,261 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct Comparison PASSED
+2022-05-25 11:46:22,328 [main] INFO .\src\test\resources\input\log4j.properties - scenarioAdding an item to Wish list started
+2022-05-25 11:46:26,269 [main] INFO .\src\test\resources\input\log4j.properties - User is on retail website.
+2022-05-25 11:46:26,433 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on laptops and notebooks tab.
+2022-05-25 11:46:26,916 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on show all laptop and notebooks option.
+2022-05-25 11:46:27,734 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdding an item to Wish list UNDEFINED
+2022-05-25 12:27:12,181 [main] INFO .\src\test\resources\input\log4j.properties - scenarioAdd and remove Mac book from cart started
+2022-05-25 12:27:17,361 [main] INFO .\src\test\resources\input\log4j.properties - User is on retail website.
+2022-05-25 12:27:17,497 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on laptops and notebooks tab.
+2022-05-25 12:27:17,989 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on show all laptop and notebooks option.
+2022-05-25 12:27:19,352 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Macbook item.
+2022-05-25 12:27:19,461 [main] INFO .\src\test\resources\input\log4j.properties - User clicked add to cart button. 
+2022-05-25 12:27:19,902 [main] INFO .\src\test\resources\input\log4j.properties - user is able to see the success message.
+2022-05-25 12:27:23,253 [main] INFO .\src\test\resources\input\log4j.properties - User saw the success message.
+2022-05-25 12:27:23,349 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on cart option
+2022-05-25 12:27:23,454 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on red X button to remove the item from cart.
+2022-05-25 12:27:23,624 [main] INFO .\src\test\resources\input\log4j.properties - Item removed and cart show zero amount.
+2022-05-25 12:27:24,502 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdd and remove Mac book from cart PASSED
+2022-05-25 12:27:24,592 [main] INFO .\src\test\resources\input\log4j.properties - scenarioProduct Comparison started
+2022-05-25 12:27:28,543 [main] INFO .\src\test\resources\input\log4j.properties - User is on retail website.
+2022-05-25 12:27:28,679 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on laptops and notebooks tab.
+2022-05-25 12:27:29,146 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on show all laptop and notebooks option.
+2022-05-25 12:27:29,253 [main] INFO .\src\test\resources\input\log4j.properties - user cicked on product comparison icon on MacBook.
+2022-05-25 12:27:32,329 [main] INFO .\src\test\resources\input\log4j.properties - user cicked on product comparison icon on MacBook.
+2022-05-25 12:27:35,408 [main] INFO .\src\test\resources\input\log4j.properties - user is able to see comparison success message.
+2022-05-25 12:27:35,486 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on product comparison link on MacBookAir.
+2022-05-25 12:27:35,890 [main] INFO .\src\test\resources\input\log4j.properties - user saw product comparison chart.
+2022-05-25 12:27:36,805 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioProduct Comparison PASSED
+2022-05-25 12:27:36,829 [main] INFO .\src\test\resources\input\log4j.properties - scenarioAdding an item to Wish list started
+2022-05-25 12:27:41,818 [main] INFO .\src\test\resources\input\log4j.properties - User is on retail website.
+2022-05-25 12:27:41,914 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on laptops and notebooks tab.
+2022-05-25 12:27:42,386 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on show all laptop and notebooks option.
+2022-05-25 12:27:42,530 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on heart icon of to add Sony VAIO to wish list.
+2022-05-25 12:27:42,710 [main] INFO .\src\test\resources\input\log4j.properties - user saw get a message to login to your account and add the item to wish list.
+2022-05-25 12:27:44,056 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioAdding an item to Wish list PASSED

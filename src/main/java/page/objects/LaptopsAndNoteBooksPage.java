@@ -101,7 +101,7 @@ public class LaptopsAndNoteBooksPage extends Base {
 		compateBtnMacBook.click();
 	}
 
-	@FindBy(xpath = "//button[@onclick=\"compare.add('44');\"]")
+	@FindBy(xpath = "//div/button[@data-toggle='tooltip'][@onclick=\"compare.add('44');\"]")
 	private WebElement compareBtnMacBookAir;
 
 	public void compareBtnMacBookAir() {
@@ -124,5 +124,24 @@ public class LaptopsAndNoteBooksPage extends Base {
 	public void clickComparisonLink() {
 		clickComparisonLink.click();
 	}
+	
+	@FindBy(xpath = "//div/button[@onclick=\"wishlist.add('46');\"]")
+	private WebElement clickHeartIconSonyVAIO;
+	
+	public void clickHeartIconSonyVAIO() {
+		clickHeartIconSonyVAIO.click();
+	}
+	
+	@FindBy(xpath = "//div[@class='alert alert-success alert-dismissible']")
+	private WebElement getLoginMessage;
+	
+	public boolean getLoginMessage() {
+		if(getLoginMessage.isDisplayed())
+			return true;
+		else
+			return false;
+		
+	}
+	
 
 }

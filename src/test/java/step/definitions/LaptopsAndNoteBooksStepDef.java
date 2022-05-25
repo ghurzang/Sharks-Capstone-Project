@@ -71,14 +71,14 @@ public class LaptopsAndNoteBooksStepDef extends Base {
 	public void item_should_be_removed_and_cart_should_show(String string) {
 		Assert.assertTrue(laptopsNotebooks.showCartTotalZero());
 		logger.info("Item removed and cart show zero amount.");
-		util.takeScreenShots();
+		
 	   
 	}
 	@When("User click on product comparison icon on {string}")
 	public void user_click_on_product_comparison_icon_on(String string) {
 		laptopsNotebooks.compateBtnMacBook();
 		logger.info("user cicked on product comparison icon on MacBook.");
-
+        util.threadSleep();
 	}
 	@When("User click on Product comparison link")
 	public void user_click_on_product_comparison_link() {
@@ -95,7 +95,20 @@ public class LaptopsAndNoteBooksStepDef extends Base {
 	public void user_should_see_product_comparison_chart() {
 		laptopsNotebooks.clickComparisonLink();
 		logger.info("user saw product comparison chart.");
-
+		
+	}
+	
+	@When("User click on heart icon to add {string} laptop to wish list")
+	public void user_click_on_heart_icon_to_add_laptop_to_wish_list(String string) {
+		laptopsNotebooks.clickHeartIconSonyVAIO();
+		logger.info("user clicked on heart icon of to add Sony VAIO to wish list.");
+	    
+	}
+	@Then("User should get a message {string}")
+	public void user_should_get_a_message(String string) {
+		Assert.assertTrue(laptopsNotebooks.getLoginMessage());
+		logger.info("user saw get a message to login to your account and add the item to wish list.");
+		util.takeScreenShots();
 	}
 
 	
