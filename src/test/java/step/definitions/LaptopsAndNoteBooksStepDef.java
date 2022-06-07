@@ -71,7 +71,7 @@ public class LaptopsAndNoteBooksStepDef extends Base {
 	public void item_should_be_removed_and_cart_should_show(String string) {
 		Assert.assertTrue(laptopsNotebooks.showCartTotalZero());
 		logger.info("Item removed and cart show zero amount.");
-		
+		util.threadSleep();
 	   
 	}
 	@When("User click on product comparison icon on {string}")
@@ -79,11 +79,13 @@ public class LaptopsAndNoteBooksStepDef extends Base {
 		laptopsNotebooks.compateBtnMacBook();
 		logger.info("user cicked on product comparison icon on MacBook.");
         util.threadSleep();
+        
 	}
 	@When("User click on Product comparison link")
 	public void user_click_on_product_comparison_link() {
 		laptopsNotebooks.compareBtnMacBookAir();
 		logger.info("user clicked on product comparison link on MacBookAir.");
+		util.threadSleep();
 	}	
 	@Then("User should see message {string}")
 	public void User_should_see_a_message(String string) {
@@ -95,7 +97,7 @@ public class LaptopsAndNoteBooksStepDef extends Base {
 	public void user_should_see_product_comparison_chart() {
 		laptopsNotebooks.clickComparisonLink();
 		logger.info("user saw product comparison chart.");
-		
+		util.threadSleep();
 	}
 	
 	@When("User click on heart icon to add {string} laptop to wish list")
@@ -110,6 +112,18 @@ public class LaptopsAndNoteBooksStepDef extends Base {
 		logger.info("user saw get a message to login to your account and add the item to wish list.");
 		util.takeScreenShots();
 	}
+	@Given("User click on {string} item")
+	public void user_click_on_item(String string) {
+		laptopsNotebooks.clickMacBookProImg();
+		
+	}
+	@Then("User should see  {string} price tag is present on UI.")
+	public void user_should_see_price_tag_is_present_on_ui(String string) {
+		Assert.assertTrue(laptopsNotebooks.MacBookProAmount());
+		logger.info("user is able to see MacBook Pro price tag is present on UI.");
+	   
+	}
+
 
 	
 

@@ -101,7 +101,7 @@ public class LaptopsAndNoteBooksPage extends Base {
 		compateBtnMacBook.click();
 	}
 
-	@FindBy(xpath = "//div/button[@data-toggle='tooltip'][@onclick=\"compare.add('44');\"]")
+	@FindBy(xpath = "//div/button[@type='button' and @onclick=\"compare.add('44');\"]")
 	private WebElement compareBtnMacBookAir;
 
 	public void compareBtnMacBookAir() {
@@ -142,6 +142,26 @@ public class LaptopsAndNoteBooksPage extends Base {
 			return false;
 		
 	}
+	
+	@FindBy(xpath = "//img[@title='MacBook Pro']")
+	private WebElement clickMacBookProImg;
+	
+	public void clickMacBookProImg() {
+		clickMacBookProImg.click();
+	}
+	
+	@FindBy(xpath = "//h2[text()='$2,000.00']")
+	private WebElement MacBookProAmount;
+	
+	public boolean MacBookProAmount() {
+		if(MacBookProAmount.isDisplayed())
+			return true;
+		else
+			return false;
+	}
+	
+	
+	
 	
 
 }
