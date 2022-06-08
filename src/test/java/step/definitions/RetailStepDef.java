@@ -1,6 +1,11 @@
 package step.definitions;
 
+import java.util.List;
+
+import org.junit.Assert;
+
 import core.Base;
+import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -10,8 +15,13 @@ import utilities.util;
 public class RetailStepDef extends Base {
 
 	RetailPage retailPage = new RetailPage();
-
-
+	
+	@Given("user is on Retail websited")
+	public void user_is_on_retail_website() {
+		Assert.assertTrue(retailPage.homePage());
+		logger.info("user is on Retail website");
+		util.threadSleep();
+	}
 	@Given("User click  on MyAccount")
 	public void user_click_on_my_account() {
 		retailPage.clickMyAccount();
@@ -46,15 +56,38 @@ public class RetailStepDef extends Base {
 
 	@Then("User should be logged in to MyAccount dashboard")
 	public void user_should_be_logged_in_to_my_account_dashboard() {
+		Assert.assertTrue(retailPage.myAccountDashboard());
+		logger.info("user is able to see MyAccount dashboard");
 
 	}
 	
 	@When("User click on {string} link")
 	public void user_click_on_link(String string) {
-	  
-	}
-	@When("User fill affiliate form with below information")
-	public void user_fill_affiliate_form_with_below_information() {
+		retailPage.registerAffiliateAccount();
+		logger.info("user clicked on register affiliate account");
 	   
 	}
+	
+	@When("User fill affiliate form with below information")
+	public void User_fill_affiliate_form_with_below_information(DataTable dataTable) {
+		
+		List<List<String>> information = dataTable.asList(String.class);
+		retailPage.companyName(information.get(0).get(0));
+		retailPage.webAdd(information.get(0).get(0));
+		retailPage.taxId(information.get(0).get(0));
+		retailPage.selectPayPal();
+		retailPage.selectAboutUs();
+		
+	}
+	
+	@When("User click on Continue button")
+	public void User_click_on_Continue_button() {
+		retailPage.clickContinue();
+		logger.info("user clicked on continue button");
+		
+	}
+	
+	
+	
+	
 }

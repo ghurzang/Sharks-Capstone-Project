@@ -1333,3 +1333,43 @@
 2022-06-06 20:08:50,256 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on My Account
 2022-06-06 20:08:53,334 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
 2022-06-06 20:09:27,223 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioRegister as an Affiliate user with Cheque Payment Method FAILED
+2022-06-07 09:22:19,905 [main] INFO .\src\test\resources\input\log4j.properties - scenarioRegister as an Affiliate user with Cheque Payment Method started
+2022-06-07 09:22:25,236 [main] INFO .\src\test\resources\input\log4j.properties - User is on retail website.
+2022-06-07 09:22:25,364 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on My Account
+2022-06-07 09:22:28,467 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-07 09:23:02,639 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioRegister as an Affiliate user with Cheque Payment Method FAILED
+2022-06-07 10:59:53,046 [main] INFO .\src\test\resources\input\log4j.properties - scenarioRegister as an Affiliate user with Cheque Payment Method started
+2022-06-07 10:59:58,724 [main] INFO .\src\test\resources\input\log4j.properties - User is on retail website.
+2022-06-07 10:59:58,881 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on My Account
+2022-06-07 11:00:02,050 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-07 11:00:36,078 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioRegister as an Affiliate user with Cheque Payment Method FAILED
+2022-06-07 21:03:39,926 [main] INFO .\src\test\resources\input\log4j.properties - scenarioRegister as an Affiliate user with Cheque Payment Method started
+2022-06-07 21:03:44,823 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail website
+2022-06-07 21:03:44,981 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on My Account
+2022-06-07 21:03:48,102 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-07 21:04:22,058 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioRegister as an Affiliate user with Cheque Payment Method FAILED
+2022-06-07 21:08:28,772 [main] INFO .\src\test\resources\input\log4j.properties - scenarioRegister as an Affiliate user with Cheque Payment Method started
+2022-06-07 21:08:33,315 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail website
+2022-06-07 21:08:36,435 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on My Account
+2022-06-07 21:08:39,530 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-07 21:09:13,475 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioRegister as an Affiliate user with Cheque Payment Method FAILED
+2022-06-07 21:15:18,995 [main] INFO .\src\test\resources\input\log4j.properties - scenarioRegister as an Affiliate user with Cheque Payment Method started
+2022-06-07 21:15:24,424 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail website
+2022-06-07 21:15:27,617 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on My Account
+2022-06-07 21:15:30,707 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-07 21:15:37,444 [main] INFO .\src\test\resources\input\log4j.properties - user entered email address.tigers@tekschool.us
+2022-06-07 21:15:37,572 [main] INFO .\src\test\resources\input\log4j.properties - user entered password987654321
+2022-06-07 21:15:41,071 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-07 21:15:41,131 [main] INFO .\src\test\resources\input\log4j.properties - user is able to see MyAccount dashboard
+2022-06-07 21:15:41,529 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on register affiliate account
+2022-06-07 21:15:42,428 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioRegister as an Affiliate user with Cheque Payment Method FAILED
+2022-06-07 21:18:40,620 [main] INFO .\src\test\resources\input\log4j.properties - scenarioRegister as an Affiliate user with Cheque Payment Method started
+2022-06-07 21:18:45,170 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail website
+2022-06-07 21:18:48,283 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on My Account
+2022-06-07 21:18:51,370 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-07 21:19:25,280 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioRegister as an Affiliate user with Cheque Payment Method FAILED
+2022-06-07 22:26:30,258 [main] INFO .\src\test\resources\input\log4j.properties - scenarioRegister as an Affiliate user with Cheque Payment Method started
+2022-06-07 22:26:34,809 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail website
+2022-06-07 22:26:37,911 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on My Account
+2022-06-07 22:26:40,982 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on login button
+2022-06-07 22:27:14,891 [main] INFO .\src\test\resources\input\log4j.properties - ScenarioRegister as an Affiliate user with Cheque Payment Method FAILED
