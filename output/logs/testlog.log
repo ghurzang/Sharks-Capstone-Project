@@ -1373,3 +1373,200 @@
 2022-06-07 22:26:37,911 - .\src\test\resources\input\log4j.properties -INFO - user clicked on My Account
 2022-06-07 22:26:40,982 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
 2022-06-07 22:27:14,891 - .\src\test\resources\input\log4j.properties -INFO - ScenarioRegister as an Affiliate user with Cheque Payment Method FAILED
+2022-06-08 21:59:37,236 - .\src\test\resources\input\log4j.properties -INFO - scenarioUser verify all items are present in Desktops tab started
+2022-06-08 21:59:43,175 - .\src\test\resources\input\log4j.properties -INFO - user is on Home page.
+2022-06-08 21:59:43,339 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Destops tab
+2022-06-08 21:59:43,881 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Show All Desktops inner drop down.
+2022-06-08 21:59:43,946 - .\src\test\resources\input\log4j.properties -INFO - user see all items are present in desktop page.
+2022-06-08 21:59:47,838 - .\src\test\resources\input\log4j.properties -INFO - ScenarioUser verify all items are present in Desktops tab PASSED
+2022-06-08 21:59:48,010 - .\src\test\resources\input\log4j.properties -INFO - scenarioUser add HP LP 3065  from Desktops tab to the cart started
+2022-06-08 21:59:52,271 - .\src\test\resources\input\log4j.properties -INFO - user is on Home page.
+2022-06-08 21:59:52,387 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Destops tab
+2022-06-08 21:59:53,024 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Show All Desktops inner drop down.
+2022-06-08 21:59:53,132 - .\src\test\resources\input\log4j.properties -INFO - user clicked add to cart option on item
+2022-06-08 21:59:54,643 - .\src\test\resources\input\log4j.properties -INFO - user selected to add quantity by 1
+2022-06-08 21:59:55,003 - .\src\test\resources\input\log4j.properties -INFO - user clicked on add to Cart button
+2022-06-08 21:59:55,230 - .\src\test\resources\input\log4j.properties -INFO - user is able to see the success message.
+2022-06-08 21:59:59,464 - .\src\test\resources\input\log4j.properties -INFO - ScenarioUser add HP LP 3065  from Desktops tab to the cart PASSED
+2022-06-08 21:59:59,564 - .\src\test\resources\input\log4j.properties -INFO - scenarioUser add Cannon EOS 5D from Desktops tab to the cart started
+2022-06-08 22:00:03,577 - .\src\test\resources\input\log4j.properties -INFO - user is on Home page.
+2022-06-08 22:00:03,680 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Destops tab
+2022-06-08 22:00:04,279 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Show All Desktops inner drop down.
+2022-06-08 22:00:04,393 - .\src\test\resources\input\log4j.properties -INFO - user clicked add to cart option on Canon EOS 5D item.
+2022-06-08 22:00:07,536 - .\src\test\resources\input\log4j.properties -INFO - user selected color from dropdown red.
+2022-06-08 22:00:10,661 - .\src\test\resources\input\log4j.properties -INFO - user selected to add quantity by 1
+2022-06-08 22:00:10,754 - .\src\test\resources\input\log4j.properties -INFO - user clicked on add to Cart button
+2022-06-08 22:00:10,957 - .\src\test\resources\input\log4j.properties -INFO - user is able to see the success message.
+2022-06-08 22:00:19,272 - .\src\test\resources\input\log4j.properties -INFO - ScenarioUser add Cannon EOS 5D from Desktops tab to the cart PASSED
+2022-06-08 22:00:19,313 - .\src\test\resources\input\log4j.properties -INFO - scenarioUser add a review to Canon EOS 5D item in Desktops tab started
+2022-06-08 22:00:23,664 - .\src\test\resources\input\log4j.properties -INFO - user is on Home page.
+2022-06-08 22:00:23,780 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Destops tab
+2022-06-08 22:00:24,361 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Show All Desktops inner drop down.
+2022-06-08 22:00:36,923 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera.
+2022-06-08 22:00:40,059 - .\src\test\resources\input\log4j.properties -INFO - user clicked on write a review link.
+2022-06-08 22:00:49,659 - .\src\test\resources\input\log4j.properties -INFO - user filled the review infromation with his name.
+2022-06-08 22:00:52,741 - .\src\test\resources\input\log4j.properties -INFO - user clicked on continue button.
+2022-06-08 22:00:55,820 - .\src\test\resources\input\log4j.properties -INFO - user is able to see the thanks for review message.
+2022-06-08 22:00:56,894 - .\src\test\resources\input\log4j.properties -INFO - ScenarioUser add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-06-08 22:02:01,478 - .\src\test\resources\input\log4j.properties -INFO - scenario started
+2022-06-08 22:02:05,691 - .\src\test\resources\input\log4j.properties -INFO - User is on retail website.
+2022-06-08 22:02:05,817 - .\src\test\resources\input\log4j.properties -INFO - User clicked on laptops and notebooks tab.
+2022-06-08 22:02:06,266 - .\src\test\resources\input\log4j.properties -INFO - User clicked on show all laptop and notebooks option.
+2022-06-08 22:02:07,087 - .\src\test\resources\input\log4j.properties -INFO - Scenario PASSED
+2022-06-08 22:02:07,159 - .\src\test\resources\input\log4j.properties -INFO - scenarioAdd and remove Mac book from cart started
+2022-06-08 22:02:11,946 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Macbook item.
+2022-06-08 22:02:12,079 - .\src\test\resources\input\log4j.properties -INFO - User clicked add to cart button. 
+2022-06-08 22:02:12,282 - .\src\test\resources\input\log4j.properties -INFO - user is able to see the success message.
+2022-06-08 22:02:15,621 - .\src\test\resources\input\log4j.properties -INFO - User saw the success message.
+2022-06-08 22:02:15,722 - .\src\test\resources\input\log4j.properties -INFO - user clicked on cart option
+2022-06-08 22:02:15,839 - .\src\test\resources\input\log4j.properties -INFO - user clicked on red X button to remove the item from cart.
+2022-06-08 22:02:15,987 - .\src\test\resources\input\log4j.properties -INFO - Item removed and cart show zero amount.
+2022-06-08 22:02:19,979 - .\src\test\resources\input\log4j.properties -INFO - ScenarioAdd and remove Mac book from cart PASSED
+2022-06-08 22:02:20,075 - .\src\test\resources\input\log4j.properties -INFO - scenarioProduct Comparison started
+2022-06-08 22:02:23,256 - .\src\test\resources\input\log4j.properties -INFO - user cicked on product comparison icon on MacBook.
+2022-06-08 22:02:26,340 - .\src\test\resources\input\log4j.properties -INFO - user cicked on product comparison icon on MacBook.
+2022-06-08 22:02:29,421 - .\src\test\resources\input\log4j.properties -INFO - user is able to see comparison success message.
+2022-06-08 22:03:00,333 - .\src\test\resources\input\log4j.properties -INFO - ScenarioProduct Comparison FAILED
+2022-06-08 22:03:00,446 - .\src\test\resources\input\log4j.properties -INFO - scenarioAdding an item to Wish list started
+2022-06-08 22:03:34,389 - .\src\test\resources\input\log4j.properties -INFO - ScenarioAdding an item to Wish list FAILED
+2022-06-08 22:03:34,419 - .\src\test\resources\input\log4j.properties -INFO - scenarioValidate the price of MacBook Pro is 2000 started
+2022-06-08 22:04:08,418 - .\src\test\resources\input\log4j.properties -INFO - ScenarioValidate the price of MacBook Pro is 2000 FAILED
+2022-06-08 22:15:41,215 - .\src\test\resources\input\log4j.properties -INFO - scenario started
+2022-06-08 22:15:45,726 - .\src\test\resources\input\log4j.properties -INFO - user is on Retail website
+2022-06-08 22:15:49,590 - .\src\test\resources\input\log4j.properties -INFO - Scenario PASSED
+2022-06-08 22:16:11,271 - .\src\test\resources\input\log4j.properties -INFO - scenario started
+2022-06-08 22:16:15,470 - .\src\test\resources\input\log4j.properties -INFO - user is on Retail website
+2022-06-08 22:16:18,579 - .\src\test\resources\input\log4j.properties -INFO - user clicked on My Account
+2022-06-08 22:16:22,445 - .\src\test\resources\input\log4j.properties -INFO - Scenario PASSED
+2022-06-08 22:16:51,624 - .\src\test\resources\input\log4j.properties -INFO - scenario started
+2022-06-08 22:16:55,819 - .\src\test\resources\input\log4j.properties -INFO - user is on Retail website
+2022-06-08 22:16:58,928 - .\src\test\resources\input\log4j.properties -INFO - user clicked on My Account
+2022-06-08 22:17:02,008 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-06-08 22:17:05,916 - .\src\test\resources\input\log4j.properties -INFO - Scenario PASSED
+2022-06-08 22:17:36,628 - .\src\test\resources\input\log4j.properties -INFO - scenario started
+2022-06-08 22:17:40,987 - .\src\test\resources\input\log4j.properties -INFO - user is on Retail website
+2022-06-08 22:17:44,115 - .\src\test\resources\input\log4j.properties -INFO - user clicked on My Account
+2022-06-08 22:17:47,187 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-06-08 22:18:21,139 - .\src\test\resources\input\log4j.properties -INFO - Scenario FAILED
+2022-06-08 22:32:31,315 - .\src\test\resources\input\log4j.properties -INFO - scenario started
+2022-06-08 22:32:35,756 - .\src\test\resources\input\log4j.properties -INFO - user is on Retail website
+2022-06-08 22:32:38,904 - .\src\test\resources\input\log4j.properties -INFO - user clicked on My Account
+2022-06-08 22:32:42,044 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-06-08 22:33:16,004 - .\src\test\resources\input\log4j.properties -INFO - Scenario FAILED
+2022-06-08 22:50:03,145 - .\src\test\resources\input\log4j.properties -INFO - scenario started
+2022-06-08 22:50:07,684 - .\src\test\resources\input\log4j.properties -INFO - user is on Retail website
+2022-06-08 22:50:10,811 - .\src\test\resources\input\log4j.properties -INFO - user clicked on My Account
+2022-06-08 22:50:13,893 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-06-08 22:50:47,877 - .\src\test\resources\input\log4j.properties -INFO - Scenario FAILED
+2022-06-09 20:37:27,793 - .\src\test\resources\input\log4j.properties -INFO - scenario started
+2022-06-09 20:37:33,892 - .\src\test\resources\input\log4j.properties -INFO - user is on Retail website
+2022-06-09 20:37:37,020 - .\src\test\resources\input\log4j.properties -INFO - user clicked on My Account
+2022-06-09 20:37:40,098 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-06-09 20:38:14,212 - .\src\test\resources\input\log4j.properties -INFO - Scenario FAILED
+2022-06-13 15:32:52,957 - .\src\test\resources\input\log4j.properties -INFO - scenario started
+2022-06-13 15:33:00,164 - .\src\test\resources\input\log4j.properties -INFO - user is on Retail website
+2022-06-13 15:33:03,321 - .\src\test\resources\input\log4j.properties -INFO - user clicked on My Account
+2022-06-13 15:33:06,452 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-06-13 15:33:10,330 - .\src\test\resources\input\log4j.properties -INFO - Scenario PASSED
+2022-06-13 15:33:58,296 - .\src\test\resources\input\log4j.properties -INFO - scenario started
+2022-06-13 15:34:03,853 - .\src\test\resources\input\log4j.properties -INFO - user is on Retail website
+2022-06-13 15:34:06,982 - .\src\test\resources\input\log4j.properties -INFO - user clicked on My Account
+2022-06-13 15:34:10,083 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-06-13 15:34:44,003 - .\src\test\resources\input\log4j.properties -INFO - Scenario FAILED
+2022-06-13 15:56:01,879 - .\src\test\resources\input\log4j.properties -INFO - scenario started
+2022-06-13 15:56:07,058 - .\src\test\resources\input\log4j.properties -INFO - user is on Retail website
+2022-06-13 15:56:10,161 - .\src\test\resources\input\log4j.properties -INFO - user clicked on My Account
+2022-06-13 15:56:13,256 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-06-13 15:56:47,294 - .\src\test\resources\input\log4j.properties -INFO - Scenario FAILED
+2022-06-13 16:12:50,962 - .\src\test\resources\input\log4j.properties -INFO - scenario started
+2022-06-13 16:12:55,588 - .\src\test\resources\input\log4j.properties -INFO - user is on Retail website
+2022-06-13 16:12:58,694 - .\src\test\resources\input\log4j.properties -INFO - user clicked on My Account
+2022-06-13 16:13:02,380 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-06-13 16:13:05,605 - .\src\test\resources\input\log4j.properties -INFO - user entered email address.tigers@tekschool.us
+2022-06-13 16:13:05,769 - .\src\test\resources\input\log4j.properties -INFO - user entered password987654321
+2022-06-13 16:13:09,669 - .\src\test\resources\input\log4j.properties -INFO - Scenario PASSED
+2022-06-13 16:15:37,670 - .\src\test\resources\input\log4j.properties -INFO - scenario started
+2022-06-13 16:15:42,161 - .\src\test\resources\input\log4j.properties -INFO - user is on Retail website
+2022-06-13 16:15:45,286 - .\src\test\resources\input\log4j.properties -INFO - user clicked on My Account
+2022-06-13 16:15:48,812 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-06-13 16:15:51,993 - .\src\test\resources\input\log4j.properties -INFO - user entered email address.tigers@tekschool.us
+2022-06-13 16:15:52,144 - .\src\test\resources\input\log4j.properties -INFO - user entered password987654321
+2022-06-13 16:15:55,758 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-06-13 16:15:55,836 - .\src\test\resources\input\log4j.properties -INFO - user is able to see MyAccount dashboard
+2022-06-13 16:15:56,673 - .\src\test\resources\input\log4j.properties -INFO - Scenario PASSED
+2022-06-13 16:18:18,312 - .\src\test\resources\input\log4j.properties -INFO - scenarioRegister as an Affiliate user with Cheque Payment Method started
+2022-06-13 16:18:23,271 - .\src\test\resources\input\log4j.properties -INFO - user is on Retail website
+2022-06-13 16:18:26,395 - .\src\test\resources\input\log4j.properties -INFO - user clicked on My Account
+2022-06-13 16:18:30,341 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-06-13 16:18:33,490 - .\src\test\resources\input\log4j.properties -INFO - user entered email address.tigers@tekschool.us
+2022-06-13 16:18:33,607 - .\src\test\resources\input\log4j.properties -INFO - user entered password987654321
+2022-06-13 16:18:40,459 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-06-13 16:18:40,531 - .\src\test\resources\input\log4j.properties -INFO - user is able to see MyAccount dashboard
+2022-06-13 16:18:41,412 - .\src\test\resources\input\log4j.properties -INFO - ScenarioRegister as an Affiliate user with Cheque Payment Method UNDEFINED
+2022-06-13 16:25:59,160 - .\src\test\resources\input\log4j.properties -INFO - scenarioRegister as an Affiliate user with Cheque Payment Method started
+2022-06-13 16:26:03,532 - .\src\test\resources\input\log4j.properties -INFO - user is on Retail website
+2022-06-13 16:26:06,631 - .\src\test\resources\input\log4j.properties -INFO - user clicked on My Account
+2022-06-13 16:26:10,177 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-06-13 16:26:13,398 - .\src\test\resources\input\log4j.properties -INFO - user entered email address.test.test12@gmail.com
+2022-06-13 16:26:13,559 - .\src\test\resources\input\log4j.properties -INFO - user entered password1234
+2022-06-13 16:26:17,091 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-06-13 16:26:17,158 - .\src\test\resources\input\log4j.properties -INFO - user is able to see MyAccount dashboard
+2022-06-13 16:26:18,069 - .\src\test\resources\input\log4j.properties -INFO - ScenarioRegister as an Affiliate user with Cheque Payment Method UNDEFINED
+2022-06-13 16:41:02,876 - .\src\test\resources\input\log4j.properties -INFO - scenarioRegister as an Affiliate user with Cheque Payment Method started
+2022-06-13 16:41:07,245 - .\src\test\resources\input\log4j.properties -INFO - user is on Retail website
+2022-06-13 16:41:10,360 - .\src\test\resources\input\log4j.properties -INFO - user clicked on My Account
+2022-06-13 16:41:14,092 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-06-13 16:41:17,282 - .\src\test\resources\input\log4j.properties -INFO - user entered email address.test.test12@gmail.com
+2022-06-13 16:41:17,407 - .\src\test\resources\input\log4j.properties -INFO - user entered password1234
+2022-06-13 16:41:20,936 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-06-13 16:41:21,022 - .\src\test\resources\input\log4j.properties -INFO - user is able to see MyAccount dashboard
+2022-06-13 16:41:21,440 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Register for an Affiliate Account link
+2022-06-13 16:41:22,551 - .\src\test\resources\input\log4j.properties -INFO - ScenarioRegister as an Affiliate user with Cheque Payment Method PASSED
+2022-06-13 17:02:32,007 - .\src\test\resources\input\log4j.properties -INFO - scenarioRegister as an Affiliate user with Cheque Payment Method started
+2022-06-13 17:02:37,191 - .\src\test\resources\input\log4j.properties -INFO - user is on Retail website
+2022-06-13 17:02:40,342 - .\src\test\resources\input\log4j.properties -INFO - user clicked on My Account
+2022-06-13 17:02:43,883 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-06-13 17:02:47,066 - .\src\test\resources\input\log4j.properties -INFO - user entered email address.test.test12@gmail.com
+2022-06-13 17:02:47,206 - .\src\test\resources\input\log4j.properties -INFO - user entered password1234
+2022-06-13 17:02:51,073 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-06-13 17:02:51,144 - .\src\test\resources\input\log4j.properties -INFO - user is able to see MyAccount dashboard
+2022-06-13 17:02:51,545 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Register for an Affiliate Account link
+2022-06-13 17:02:52,411 - .\src\test\resources\input\log4j.properties -INFO - ScenarioRegister as an Affiliate user with Cheque Payment Method FAILED
+2022-06-13 20:32:34,624 - .\src\test\resources\input\log4j.properties -INFO - scenarioRegister as an Affiliate user with Cheque Payment Method started
+2022-06-13 20:32:40,502 - .\src\test\resources\input\log4j.properties -INFO - ScenarioRegister as an Affiliate user with Cheque Payment Method FAILED
+2022-06-13 20:35:24,667 - .\src\test\resources\input\log4j.properties -INFO - scenarioRegister as an Affiliate user with Cheque Payment Method started
+2022-06-13 20:35:29,812 - .\src\test\resources\input\log4j.properties -INFO - ScenarioRegister as an Affiliate user with Cheque Payment Method FAILED
+2022-06-13 20:38:52,509 - .\src\test\resources\input\log4j.properties -INFO - scenarioRegister as an Affiliate user with Cheque Payment Method started
+2022-06-13 20:38:57,836 - .\src\test\resources\input\log4j.properties -INFO - ScenarioRegister as an Affiliate user with Cheque Payment Method FAILED
+2022-06-13 20:42:10,071 - .\src\test\resources\input\log4j.properties -INFO - scenarioRegister as an Affiliate user with Cheque Payment Method started
+2022-06-13 20:42:14,572 - .\src\test\resources\input\log4j.properties -INFO - user is on Retail website
+2022-06-13 20:42:17,722 - .\src\test\resources\input\log4j.properties -INFO - user clicked on My Account
+2022-06-13 20:42:21,545 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-06-13 20:42:24,734 - .\src\test\resources\input\log4j.properties -INFO - user entered email address.test.test12@gmail.com
+2022-06-13 20:42:24,867 - .\src\test\resources\input\log4j.properties -INFO - user entered password1234
+2022-06-13 20:42:28,391 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-06-13 20:42:28,476 - .\src\test\resources\input\log4j.properties -INFO - user is able to see MyAccount dashboard
+2022-06-13 20:42:59,404 - .\src\test\resources\input\log4j.properties -INFO - ScenarioRegister as an Affiliate user with Cheque Payment Method FAILED
+2022-06-13 21:11:29,190 - .\src\test\resources\input\log4j.properties -INFO - scenarioRegister as an Affiliate user with Cheque Payment Method started
+2022-06-13 21:11:34,388 - .\src\test\resources\input\log4j.properties -INFO - user is on Retail website
+2022-06-13 21:11:37,550 - .\src\test\resources\input\log4j.properties -INFO - user clicked on My Account
+2022-06-13 21:11:41,374 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-06-13 21:11:44,570 - .\src\test\resources\input\log4j.properties -INFO - user entered email address.ab.ab@gmail.com
+2022-06-13 21:11:44,745 - .\src\test\resources\input\log4j.properties -INFO - user entered password1234
+2022-06-13 21:11:48,312 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-06-13 21:11:48,385 - .\src\test\resources\input\log4j.properties -INFO - user is able to see MyAccount dashboard
+2022-06-13 21:11:48,809 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Register for an Affiliate Account link
+2022-06-13 21:11:49,363 - .\src\test\resources\input\log4j.properties -INFO - user filled affiliate form with required infomation
+2022-06-13 21:11:49,675 - .\src\test\resources\input\log4j.properties -INFO - user checked on About us Check box
+2022-06-13 21:11:50,275 - .\src\test\resources\input\log4j.properties -INFO - user clicked on continue button
+2022-06-13 21:11:50,332 - .\src\test\resources\input\log4j.properties -INFO - Success message verified.
+2022-06-13 21:11:51,384 - .\src\test\resources\input\log4j.properties -INFO - ScenarioRegister as an Affiliate user with Cheque Payment Method PASSED
+2022-06-13 23:12:32,778 - .\src\test\resources\input\log4j.properties -INFO - scenarioEdit your affiliate information from Cheque payment method to Bank Transfer started
+2022-06-13 23:12:38,425 - .\src\test\resources\input\log4j.properties -INFO - user is on Retail website
+2022-06-13 23:12:41,547 - .\src\test\resources\input\log4j.properties -INFO - user clicked on My Account
+2022-06-13 23:12:45,190 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-06-13 23:12:48,382 - .\src\test\resources\input\log4j.properties -INFO - user entered email address.ab.ab@gmail.com
+2022-06-13 23:12:48,512 - .\src\test\resources\input\log4j.properties -INFO - user entered password1234
+2022-06-13 23:12:52,029 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-06-13 23:12:52,096 - .\src\test\resources\input\log4j.properties -INFO - user is able to see MyAccount dashboard
+2022-06-13 23:12:52,953 - .\src\test\resources\input\log4j.properties -INFO - ScenarioEdit your affiliate information from Cheque payment method to Bank Transfer UNDEFINED
