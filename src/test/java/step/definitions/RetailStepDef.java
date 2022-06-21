@@ -76,7 +76,7 @@ public class RetailStepDef extends Base {
 		retailPage.companyName(affiliateInformation.get(0).get("company"));
 		retailPage.webAdd(affiliateInformation.get(0).get("website"));
 		retailPage.taxId(affiliateInformation.get(0).get("taxID"));
-		retailPage.selectPaymentMethodCheque(affiliateInformation.get(0).get("paymentMethod"));
+		retailPage.selectPaymentMethod(affiliateInformation.get(0).get("paymentMethod"));
 		retailPage.chequePayeeNameInput(affiliateInformation.get(0).get("payeeName"));
 		logger.info("user filled affiliate form with required infomation");
 		util.takeScreenShots();
@@ -102,19 +102,68 @@ public class RetailStepDef extends Base {
 		logger.info("Success message verified.");
 		util.takeScreenShots();
 	}
-	
+
 	@When("User click on {string} link")
 	public void user_click_on_link(String string) {
-	  
+		retailPage.editAffiliateInfo();
+		logger.info("user clicked on Edit your affiliate information link");
+
 	}
+
 	@When("user click on Bank Transfer radio button")
 	public void user_click_on_bank_transfer_radio_button() {
-	
+		retailPage.selectBankTranfer();
+
 	}
+
 	@When("User fill Bank information with below information")
-	public void user_fill_bank_information_with_below_information(io.cucumber.datatable.DataTable dataTable) {
-	  
+	public void user_fill_bank_information_with_below_information(DataTable dataTable) {
+		List<Map<String, String>> bankInformation = dataTable.asMaps(String.class, String.class);
+		retailPage.bankName(bankInformation.get(0).get("bankName"));
+		retailPage.branchNum(bankInformation.get(0).get("abaNumber"));
+		retailPage.swiftCode(bankInformation.get(0).get("swiftCode"));
+		retailPage.accountName(bankInformation.get(0).get("accountName"));
+		retailPage.accountNum(bankInformation.get(0).get("accountNumber"));
+
+	}
+
+	@When("User click on Edit your account information link")
+	public void user_click_on_edit_your_account_information_link() {
+		retailPage.editYourAccInfo();
+		logger.info("user clicked on edit account infromation link");
+
+	}
+
+	@When("User modify below information")
+	public void user_modify_below_information(DataTable dataTable) {
+		List<Map<String, String>> personalInformation = dataTable.asMaps(String.class, String.class);
+		retailPage.inputFirstName(personalInformation.get(0).get("firstname"));
+		retailPage.inputLastName(personalInformation.get(0).get("lastName"));
+		retailPage.inputEmailAdd(personalInformation.get(0).get("email"));
+		retailPage.inputTeleNum(personalInformation.get(0).get("telephone"));
+		util.takeScreenShots();
+
 	}
 	
+	@Then("User click on continue button")
+	public void user_click_on_continue_button() {
+		retailPage.clickContinueButton();
+	   
+	}
+	
+	@Then("User should see a message {string}.")
+	public void user_should_see_a_message(String string) {
+		Assert.assertTrue(retailPage.successMessagePInfo());
+		logger.info("User should see success Message");
+	}
+
+
+//	@Then("User should see a message {string}.")
+//	public void user_should_see_a_message(String string) {
+//		Assert.assertTrue(retailPage.successMessagePInfo());
+//		//Assert.assertEquals(expectedMessage, retailPage.actualSuccessMessage());
+//		logger.info("User should see success Message");
+//
+//	}
 
 }

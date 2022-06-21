@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3842698600,
+              "duration": 3408021800,
               "status": "passed"
             },
             "line": 5,
@@ -23,7 +23,7 @@
           },
           {
             "result": {
-              "duration": 3125836400,
+              "duration": 3162023700,
               "status": "passed"
             },
             "line": 6,
@@ -35,7 +35,7 @@
           },
           {
             "result": {
-              "duration": 3642571500,
+              "duration": 3646434300,
               "status": "passed"
             },
             "line": 7,
@@ -47,20 +47,20 @@
           },
           {
             "result": {
-              "duration": 3316381600,
+              "duration": 3285146500,
               "status": "passed"
             },
             "line": 8,
-            "name": "User enter username \"ab.ab@gmail.com\" and password \"1234\"",
+            "name": "User enter username \"h.h@gmail.com\" and password \"1234\"",
             "match": {
               "arguments": [
                 {
-                  "val": "\"ab.ab@gmail.com\"",
+                  "val": "\"h.h@gmail.com\"",
                   "offset": 20
                 },
                 {
                   "val": "\"1234\"",
-                  "offset": 51
+                  "offset": 49
                 }
               ],
               "location": "step.definitions.RetailStepDef.user_enter_username_and_password(java.lang.String,java.lang.String)"
@@ -69,7 +69,7 @@
           },
           {
             "result": {
-              "duration": 506587600,
+              "duration": 495626500,
               "status": "passed"
             },
             "line": 9,
@@ -81,7 +81,7 @@
           },
           {
             "result": {
-              "duration": 67411100,
+              "duration": 60836100,
               "status": "passed"
             },
             "line": 10,
@@ -94,11 +94,219 @@
         ]
       },
       {
-        "start_timestamp": "2022-06-14T03:12:32.469Z",
+        "start_timestamp": "2022-06-21T00:02:11.509Z",
         "before": [
           {
             "result": {
-              "duration": 4997855700,
+              "duration": 4171063500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step.definitions.Initializer.beforeHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "Register as an Affiliate user with Cheque Payment Method",
+        "description": "",
+        "id": "for-this-feature-you-have-to-have-an-existing-account;register-as-an-affiliate-user-with-cheque-payment-method",
+        "after": [
+          {
+            "result": {
+              "duration": 795053700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step.definitions.Initializer.afterHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 379870000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "User click on Register for an Affiliate Account link",
+            "match": {
+              "location": "step.definitions.RetailStepDef.user_click_on_register_for_an_affiliate_account_link()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "error_message": "org.openqa.selenium.ElementNotInteractableException: element not interactable\n  (Session info: chrome\u003d102.0.5005.115)\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027DESKTOP-6QUIO2L\u0027, ip: \u0027169.254.97.185\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002711.0.14\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\\Users\\GHURZA~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:63013}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 7ed335beb59dc33bafa2bb596e78be10\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:106)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:566)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)\r\n\tat com.sun.proxy.$Proxy20.sendKeys(Unknown Source)\r\n\tat page.objects.RetailPage.chequePayeeNameInput(RetailPage.java:124)\r\n\tat step.definitions.RetailStepDef.User_fill_affiliate_form_with_below_information(RetailStepDef.java:80)\r\n\tat ✽.User fill affiliate form with below information(classpath:feature/Retail.feature:14)\r\n",
+              "duration": 30622492000,
+              "status": "failed"
+            },
+            "line": 14,
+            "name": "User fill affiliate form with below information",
+            "match": {
+              "location": "step.definitions.RetailStepDef.User_fill_affiliate_form_with_below_information(io.cucumber.datatable.DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "company",
+                  "website",
+                  "taxID",
+                  "paymentMethod",
+                  "payeeName"
+                ]
+              },
+              {
+                "cells": [
+                  "tekSchool",
+                  "tekschool.us",
+                  "1234678",
+                  "Cheque",
+                  "test"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 997700,
+              "status": "skipped"
+            },
+            "line": 17,
+            "name": "User check on About us check box",
+            "match": {
+              "location": "step.definitions.RetailStepDef.User_check_on_About_us_check_box()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 18,
+            "name": "User click on Continue button",
+            "match": {
+              "location": "step.definitions.RetailStepDef.User_click_on_Continue_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 19,
+            "name": "User should see a success message",
+            "match": {
+              "location": "step.definitions.RetailStepDef.User_should_see_a_success_message()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Retail"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3236281400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user is on Retail websited",
+            "match": {
+              "location": "step.definitions.RetailStepDef.user_is_on_retail_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3138571100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User click  on MyAccount",
+            "match": {
+              "location": "step.definitions.RetailStepDef.user_click_on_my_account()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3580516300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User click on Login",
+            "match": {
+              "location": "step.definitions.RetailStepDef.user_click_on_login()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3276164600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User enter username \"h.h@gmail.com\" and password \"1234\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"h.h@gmail.com\"",
+                  "offset": 20
+                },
+                {
+                  "val": "\"1234\"",
+                  "offset": 49
+                }
+              ],
+              "location": "step.definitions.RetailStepDef.user_enter_username_and_password(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 507593100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User click on Login button",
+            "match": {
+              "location": "step.definitions.RetailStepDef.user_click_on_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 62874900,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User should be logged in to MyAccount dashboard",
+            "match": {
+              "location": "step.definitions.RetailStepDef.user_should_be_logged_in_to_my_account_dashboard()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-06-21T00:03:01.678Z",
+        "before": [
+          {
+            "result": {
+              "duration": 3103780000,
               "status": "passed"
             },
             "match": {
@@ -113,7 +321,7 @@
         "after": [
           {
             "result": {
-              "duration": 841767800,
+              "duration": 762861100,
               "status": "passed"
             },
             "match": {
@@ -126,31 +334,44 @@
         "steps": [
           {
             "result": {
-              "status": "undefined"
+              "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[text()\u003d\u0027Edit your affiliate information\u0027]\"}\n  (Session info: chrome\u003d102.0.5005.115)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027DESKTOP-6QUIO2L\u0027, ip: \u0027169.254.97.185\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002711.0.14\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\\Users\\GHURZA~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:63062}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: a0748f246174b853e91e016852bb7bc8\n*** Element info: {Using\u003dxpath, value\u003d//a[text()\u003d\u0027Edit your affiliate information\u0027]}\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)\r\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\r\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)\r\n\tat com.sun.proxy.$Proxy20.click(Unknown Source)\r\n\tat page.objects.RetailPage.editAffiliateInfo(RetailPage.java:156)\r\n\tat step.definitions.RetailStepDef.user_click_on_link(RetailStepDef.java:108)\r\n\tat ✽.User click on \u0027Edit your affiliate information\u0027 link(classpath:feature/Retail.feature:22)\r\n",
+              "duration": 30031806500,
+              "status": "failed"
             },
             "line": 22,
             "name": "User click on \u0027Edit your affiliate information\u0027 link",
-            "match": {},
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027Edit your affiliate information\u0027",
+                  "offset": 14
+                }
+              ],
+              "location": "step.definitions.RetailStepDef.user_click_on_link(java.lang.String)"
+            },
             "keyword": "When "
           },
           {
             "result": {
-              "duration": 997200,
               "status": "skipped"
             },
             "line": 23,
             "name": "user click on Bank Transfer radio button",
-            "match": {},
+            "match": {
+              "location": "step.definitions.RetailStepDef.user_click_on_bank_transfer_radio_button()"
+            },
             "keyword": "And "
           },
           {
             "result": {
-              "duration": 1000300,
+              "duration": 21942700,
               "status": "skipped"
             },
             "line": 24,
             "name": "User fill Bank information with below information",
-            "match": {},
+            "match": {
+              "location": "step.definitions.RetailStepDef.user_fill_bank_information_with_below_information(io.cucumber.datatable.DataTable)"
+            },
             "rows": [
               {
                 "cells": [
@@ -160,16 +381,25 @@
                   "accountName",
                   "accountNumber"
                 ]
+              },
+              {
+                "cells": [
+                  "BOA",
+                  "123456",
+                  "002100",
+                  "tek",
+                  "11234567890"
+                ]
               }
             ],
             "keyword": "And "
           },
           {
             "result": {
-              "duration": 993200,
+              "duration": 994300,
               "status": "skipped"
             },
-            "line": 26,
+            "line": 27,
             "name": "User click on Continue button",
             "match": {
               "location": "step.definitions.RetailStepDef.User_click_on_Continue_button()"
@@ -180,10 +410,212 @@
             "result": {
               "status": "skipped"
             },
-            "line": 27,
+            "line": 28,
             "name": "User should see a success message",
             "match": {
               "location": "step.definitions.RetailStepDef.User_should_see_a_success_message()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Retail"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3247171800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user is on Retail websited",
+            "match": {
+              "location": "step.definitions.RetailStepDef.user_is_on_retail_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3112640400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User click  on MyAccount",
+            "match": {
+              "location": "step.definitions.RetailStepDef.user_click_on_my_account()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3641682700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User click on Login",
+            "match": {
+              "location": "step.definitions.RetailStepDef.user_click_on_login()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3342513400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User enter username \"h.h@gmail.com\" and password \"1234\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"h.h@gmail.com\"",
+                  "offset": 20
+                },
+                {
+                  "val": "\"1234\"",
+                  "offset": 49
+                }
+              ],
+              "location": "step.definitions.RetailStepDef.user_enter_username_and_password(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 497851100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User click on Login button",
+            "match": {
+              "location": "step.definitions.RetailStepDef.user_click_on_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 63917100,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User should be logged in to MyAccount dashboard",
+            "match": {
+              "location": "step.definitions.RetailStepDef.user_should_be_logged_in_to_my_account_dashboard()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-06-21T00:03:49.430Z",
+        "before": [
+          {
+            "result": {
+              "duration": 3875431700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step.definitions.Initializer.beforeHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 31,
+        "name": "Edit your account Information",
+        "description": "",
+        "id": "for-this-feature-you-have-to-have-an-existing-account;edit-your-account-information",
+        "after": [
+          {
+            "result": {
+              "duration": 774824300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step.definitions.Initializer.afterHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 680297500,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "User click on Edit your account information link",
+            "match": {
+              "location": "step.definitions.RetailStepDef.user_click_on_edit_your_account_information_link()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 950810100,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "User modify below information",
+            "match": {
+              "location": "step.definitions.RetailStepDef.user_modify_below_information(io.cucumber.datatable.DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "firstname",
+                  "lastName",
+                  "email",
+                  "telephone"
+                ]
+              },
+              {
+                "cells": [
+                  "Jan",
+                  "Khan",
+                  "g.g@gmail.com",
+                  "1234567890"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 360458400,
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "User click on continue button",
+            "match": {
+              "location": "step.definitions.RetailStepDef.user_click_on_continue_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[text()\u003d\u0027 Success: Your account has been successfully updated.\u0027]\"}\n  (Session info: chrome\u003d102.0.5005.115)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027DESKTOP-6QUIO2L\u0027, ip: \u0027169.254.97.185\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002711.0.14\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\\Users\\GHURZA~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:63108}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 1fc72f8888aaedd630fbd2667b5b36c6\n*** Element info: {Using\u003dxpath, value\u003d//div[text()\u003d\u0027 Success: Your account has been successfully updated.\u0027]}\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)\r\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\r\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)\r\n\tat com.sun.proxy.$Proxy20.isDisplayed(Unknown Source)\r\n\tat page.objects.RetailPage.successMessagePInfo(RetailPage.java:264)\r\n\tat step.definitions.RetailStepDef.user_should_see_a_message(RetailStepDef.java:156)\r\n\tat ✽.User should see a message \u0027Success: Your account has been successfully updated\u0027.(classpath:feature/Retail.feature:37)\r\n",
+              "duration": 30044910800,
+              "status": "failed"
+            },
+            "line": 37,
+            "name": "User should see a message \u0027Success: Your account has been successfully updated\u0027.",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027Success: Your account has been successfully updated\u0027",
+                  "offset": 26
+                }
+              ],
+              "location": "step.definitions.RetailStepDef.user_should_see_a_message(java.lang.String)"
             },
             "keyword": "Then "
           }
@@ -200,6 +632,15 @@
     "id": "for-this-feature-you-have-to-have-an-existing-account",
     "keyword": "Feature",
     "uri": "classpath:feature/Retail.feature",
-    "tags": []
+    "tags": [
+      {
+        "name": "@Retail",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
   }
 ]
